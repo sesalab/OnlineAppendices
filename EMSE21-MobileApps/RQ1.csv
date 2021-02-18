@@ -1,0 +1,2002 @@
+"project";"category";"number.of.tests";"number.of.production";"tests.per.class";"is.buildable";"activities";"intents";"fragments";"dbClasses";"otherClasses"
+"com.github.andlyticsproject";"Development";0;133;NA;"false";0;0;0;0;0
+"com.simplemobiletools.calculator";"System";1;1;17;"false";0;0;0;0;0
+"im.vector.alpha";"Internet";0;176;NA;"false";0;0;0;0;0
+"org.wahtod.wififixer";"Connectivity";0;76;NA;"false";0;0;0;0;0
+"com.nicue.onetwo";"Games";2;14;1;"false";0;0;0;0;0
+"com.commonsware.android.arXiv";"Reading";0;0;NA;"false";0;0;0;0;0
+"uk.co.busydoingnothing.prevo";"Reading";0;24;NA;"false";0;0;0;0;0
+"sh.ftp.rocketninelabs.meditationassistant.opensource";"Time";0;49;NA;"false";0;0;0;0;0
+"org.poirsouille.tinc_gui";"Internet";0;12;NA;"false";0;0;0;0;0
+"nl.sogeti.android.gpstracker";"Navigation";10;61;7.6;"false";0;0;0;1;5
+"com.lgallardo.qbittorrentclient";"Internet";1;58;25;"false";0;0;0;0;0
+"com.kanedias.vanilla.lyrics";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlyruler";"Multimedia";2;13;1;"false";0;0;0;0;0
+"org.fitchfamily.android.wifi_backend";"Navigation";0;39;NA;"false";0;0;0;0;0
+"de.guerda.matekarte";"Internet";0;22;NA;"false";0;0;0;0;0
+"com.dririan.RingyDingyDingy";"Connectivity";0;24;NA;"false";0;0;0;0;0
+"org.katsarov.heatcalc";"Science & Education";0;43;NA;"false";0;0;0;0;0
+"com.junjunguo.pocketmaps";"Navigation";1;57;1;"false";0;0;0;0;0
+"cz.romario.opensudoku";"Games";0;54;NA;"false";0;0;0;0;0
+"fr.ornidroid";"Science & Education";11;69;5.54545454545455;"false";0;0;0;0;9
+"com.iazasoft.footguy";"Theming";0;7;NA;"false";0;0;0;0;0
+"org.legtux.m_316k.fortune";"Reading";1;3;1;"false";0;0;0;0;0
+"campyre.android";"Internet";0;19;NA;"false";0;0;0;0;0
+"com.longevitysoft.android.appwidget.hstfeed";"Multimedia";0;26;NA;"false";0;0;0;0;0
+"com.mridang.speedo";"System";0;9;NA;"false";0;0;0;0;0
+"com.fr3ts0n.ecu.gui.androbd";"Connectivity";2;92;19;"false";0;0;0;0;0
+"nl.ttys0.simplec25k";"Sports & Health";0;10;NA;"false";0;0;0;0;0
+"eu.veldsoft.scribe4";"Games";6;31;3;"false";0;0;0;0;2
+"com.ebaschiera.triplecamel";"Internet";1;4;1;"false";0;0;0;0;0
+"org.helllabs.android.xmp";"Multimedia";0;76;NA;"false";0;0;0;0;0
+"info.meoblast001.thugaim";"Games";0;24;NA;"false";0;0;0;0;0
+"pro.dbro.bart";"Navigation";0;19;NA;"false";0;0;0;0;0
+"com.evenement.encapsulation";"Connectivity";0;0;NA;"false";0;0;0;0;0
+"de.grobox.blitzmail";"Internet";0;10;NA;"false";0;0;0;0;0
+"name.marfl.ext_kbd_bulgarian_phonetic";"Writing";0;0;NA;"false";0;0;0;0;0
+"org.birthdayadapter";"Time";0;31;NA;"false";0;0;0;0;0
+"com.sam.hex";"Games";0;29;NA;"false";0;0;0;0;0
+"com.anysoftkeyboard.languagepack.neo";"Writing";0;1;NA;"false";0;0;0;0;0
+"net.logomancy.diedroid";"Games";0;15;NA;"false";0;0;0;0;0
+"eu.woju.android.packages.hud";"Navigation";0;4;NA;"false";0;0;0;0;0
+"cc.co.eurdev.urecorder";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"nl.frankkie.bronylivewallpaper";"Theming";0;9;NA;"false";0;0;0;0;0
+"de.b0nk.fp1_epo_autoupdate";"Navigation";2;11;2;"false";0;0;0;0;1
+"tk.al54.dev.badpixels";"System";1;2;1;"false";0;0;0;0;0
+"net.bmaron.openfixmap";"Navigation";0;22;NA;"false";0;0;0;0;0
+"it.faerb.crond";"System";0;7;NA;"false";0;0;0;0;0
+"com.ushahidi.android.app";"Navigation";2;273;1;"false";1;0;0;0;1
+"org.segin.bfinterpreter";"Development";1;5;1;"false";0;0;0;0;0
+"org.surrel.messengerbypasser";"Internet";2;7;1;"false";0;0;0;0;0
+"org.ndeftools.boilerplate";"Development";8;51;2.375;"false";0;0;0;0;0
+"eu.veldsoft.svarka.odds.calculator";"Games";0;10;NA;"false";0;0;0;0;0
+"fr.free.nrw.commons";"Internet";4;284;6.25;"false";0;0;0;0;4
+"com.android.shellms";"Phone & SMS";0;7;NA;"false";0;0;0;0;0
+"org.billthefarmer.currency";"Money";0;15;NA;"false";0;0;0;0;0
+"mancioboxblog.altervista.it.volumecontrol";"System";0;4;NA;"false";0;0;0;0;0
+"com.vocifery.daytripper";"Internet";0;50;NA;"false";0;0;0;0;0
+"com.innodroid.mongobrowser";"Development";0;40;NA;"false";0;0;0;0;0
+"org.kore.kolabnotes.android";"Writing";2;75;1.5;"false";0;0;0;0;0
+"com.madgag.agit";"Development";28;180;3.78571428571429;"false";5;0;0;0;9
+"de.retujo.bierverkostung";"Writing";29;185;3.55172413793103;"false";0;0;0;2;16
+"de.koelle.christian.trickytripper";"Money";40;193;5.2;"false";0;0;0;0;12
+"ru.moscow.tuzlukov.sergey.weatherlog";"Time";1;5;1;"false";0;0;0;0;0
+"git.rrgb.kinolog";"Multimedia";2;9;1;"false";0;0;0;0;0
+"com.dynamite.heaterrc";"Connectivity";0;14;NA;"false";0;0;0;0;0
+"com.th.XenonWallpapers";"Theming";0;5;NA;"false";0;0;0;0;0
+"us.achromaticmetaphor.agram";"Reading";0;15;NA;"false";0;0;0;0;0
+"org.microg.nlp.backend.apple";"Navigation";0;7;NA;"false";0;0;0;0;0
+"com.github.wdkapps.fillup";"Science & Education";0;59;NA;"false";0;0;0;0;0
+"net.sf.crypt.gort";"Security";0;7;NA;"false";0;0;0;0;0
+"org.navitproject.navit";"Navigation";0;23;NA;"false";0;0;0;0;0
+"de.danielweisser.android.ldapsync";"System";0;15;NA;"false";0;0;0;0;0
+"de.d120.ophasekistenstapeln";"Games";0;0;NA;"false";0;0;0;0;0
+"com.gelakinetic.mtgfam";"Games";2;106;5;"false";0;0;0;0;0
+"com.seawolfsanctuary.keepingtracks";"Navigation";1;17;3;"false";0;0;0;0;1
+"nl.mpcjanssen.simpletask";"Writing";1;18;16;"false";0;0;0;0;0
+"dudeofx.eval";"Science & Education";0;3;NA;"false";0;0;0;0;0
+"org.openintents.flashlight";"System";0;9;NA;"false";0;0;0;0;0
+"com.stoutner.privacybrowser.standard";"Internet";0;65;NA;"false";0;0;0;0;0
+"org.basketbuilddownloader";"Internet";0;15;NA;"false";0;0;0;0;0
+"gg.mw.passera";"Internet";0;1;NA;"false";0;0;0;0;0
+"systems.byteswap.aiproute";"System";1;12;1;"false";0;0;0;0;0
+"org.osmocom.tacdatabaseclient";"Phone & SMS";2;2;1;"false";0;0;0;0;0
+"kr.softgear.multiping";"Internet";0;2;NA;"false";0;0;0;0;0
+"de.enaikoon.android.keypadmapper3";"Navigation";2;160;2.5;"false";0;0;0;0;0
+"fr.hnit.babyname";"Science & Education";2;18;1;"false";0;0;0;0;0
+"com.mridang.cellinfo";"Theming";0;5;NA;"false";0;0;0;0;0
+"com.mendhak.gpslogger";"Navigation";21;106;7.95238095238095;"false";0;0;0;0;17
+"com.android.launcher3";"Theming";46;554;6.89130434782609;"false";0;0;0;5;15
+"fm.a2d.sf";"Multimedia";0;18;NA;"false";0;0;0;0;0
+"siir.es.adbWireless";"Connectivity";0;9;NA;"false";0;0;0;0;0
+"com.android.inputmethod.pinyin";"System";0;24;NA;"false";0;0;0;0;0
+"com.gmail.walles.johan.batterylogger";"System";7;21;8.28571428571429;"false";0;0;0;0;5
+"eu.veldsoft.complica4";"Games";13;23;4.46153846153846;"false";0;0;0;0;11
+"com.morlunk.mountie";"System";1;36;1;"false";0;0;0;0;0
+"org.fastergps";"System";0;26;NA;"false";0;0;0;0;0
+"jp.takke.datastats";"System";1;19;1;"false";0;0;0;0;0
+"de.arnowelzel.android.periodical";"Science & Education";0;17;NA;"false";0;0;0;0;0
+"org.synergy";"Connectivity";0;76;NA;"false";0;0;0;0;0
+"com.maskyn.fileeditorpro";"Writing";3;179;1;"false";0;0;0;0;0
+"com.sgr_b2.compass";"Navigation";12;53;6.33333333333333;"false";0;0;0;0;10
+"com.nolanlawson.chordreader";"Multimedia";3;29;7.66666666666667;"false";0;0;0;0;0
+"com.cyanogenmod.lockclock";"Theming";0;23;NA;"false";0;0;0;0;0
+"org.asteroidos.sync";"Connectivity";2;254;4.5;"false";0;0;0;0;0
+"me.danielbarnett.addresstogps";"Navigation";1;1;1;"false";0;0;0;0;0
+"com.kodarkooperativet.notificationstopwatch";"System";0;8;NA;"false";0;0;0;0;0
+"org.videolan.vlc";"Multimedia";5;71;1.2;"false";0;0;0;0;1
+"com.alexkang.loopboard";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"org.nv95.openmanga";"Reading";0;191;NA;"false";0;0;0;0;0
+"com.nextgis.mobile";"Navigation";1;26;1;"false";0;0;0;0;0
+"net.rocboronat.android.wallpaper.npe";"Theming";0;1;NA;"false";0;0;0;0;0
+"io.github.lonamiwebs.stringlate";"Development";0;75;NA;"false";0;0;0;0;0
+"org.witness.informacam";"Multimedia";3;172;15.3333333333333;"false";0;0;0;0;3
+"org.emergent.android.weave";"Internet";4;66;4.5;"false";0;0;0;0;1
+"org.microg.nlp.backend.ichnaea";"Navigation";0;4;NA;"false";0;0;0;0;0
+"ch.hgdev.toposuite";"Science & Education";27;147;5.18518518518519;"false";0;0;0;0;24
+"org.whitequark.sipcaller";"Phone & SMS";0;1;NA;"false";0;0;0;0;0
+"com.forrestguice.suntimeswidget";"Time";17;182;17.5882352941176;"false";2;0;0;1;10
+"it.eternitywall.eternitywall";"Internet";6;76;3;"false";0;0;0;0;3
+"com.webworxshop.swallowcatcher";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.rigid.birthdroid";"Time";0;7;NA;"false";0;0;0;0;0
+"ryey.easer";"System";54;426;1.22222222222222;"false";0;0;0;0;50
+"com.termux.api";"System";0;42;NA;"false";0;0;0;0;0
+"com.maralexbar.wifikeyview";"Security";0;4;NA;"false";0;0;0;0;0
+"com.qubling.sidekick";"Development";0;67;NA;"false";0;0;0;0;0
+"za.co.lukestonehm.logicaldefence";"Reading";1;8;1;"false";0;0;0;0;0
+"de.baumann.sieben";"Sports & Health";0;40;NA;"false";0;0;0;0;0
+"org.happysanta.gd";"Games";0;70;NA;"false";0;0;0;0;0
+"it.iiizio.epubator";"Reading";0;10;NA;"false";0;0;0;0;0
+"net.androcom.dho.speakerproximity";"Connectivity";0;13;NA;"false";0;0;0;0;0
+"org.wheelmap.android.online";"Navigation";11;268;5.54545454545455;"false";4;0;0;0;1
+"gr.tsagi.jekyllforandroid";"Internet";0;120;NA;"false";0;0;0;0;0
+"com.fairphone.clock";"System";0;4;NA;"false";0;0;0;0;0
+"com.haha01haha01.harail";"Navigation";0;12;NA;"false";0;0;0;0;0
+"org.brandroid.openmanager";"System";1;930;2;"false";0;0;0;0;0
+"cs4295.memecreator";"Graphics";0;15;NA;"false";0;0;0;0;0
+"com.simplemobiletools.flashlight";"System";0;1;NA;"false";0;0;0;0;0
+"org.droidparts.battery_widget";"System";0;6;NA;"false";0;0;0;0;0
+"name.seguri.android.isphoneencrypted";"Security";0;3;NA;"false";0;0;0;0;0
+"atitel.com.todoer";"Internet";0;1;NA;"false";0;0;0;0;0
+"eu.siebeck.sipswitch";"Phone & SMS";0;3;NA;"false";0;0;0;0;0
+"com.pheelicks.visualizer";"Multimedia";0;12;NA;"false";0;0;0;0;0
+"uk.ac.ed.inf.mandelbrotmaps";"Science & Education";0;17;NA;"false";0;0;0;0;0
+"org.gnucash.android";"Money";36;148;8.08333333333333;"false";3;0;0;11;15
+"com.juet.attendance";"Science & Education";2;6;1;"false";0;0;0;0;0
+"de.laxu.apps.nachtlagerdownloader";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"org.emunix.unipatcher";"Games";3;38;6;"false";0;0;0;0;2
+"ch.blinkenlights.android.vanilla";"Multimedia";0;113;NA;"false";0;0;0;0;0
+"com.code61.deadpixel";"Graphics";0;13;NA;"false";0;0;0;0;0
+"info.zwanenburg.caffeinetile";"System";0;4;NA;"false";0;0;0;0;0
+"com.benny.openlauncher";"System";0;101;NA;"false";0;0;0;0;0
+"it.greenaddress.cordova";"Money";0;52;NA;"false";0;0;0;0;0
+"com.eolwral.osmonitor";"System";0;57;NA;"false";0;0;0;0;0
+"com.jarsilio.android.pocketup";"System";0;9;NA;"false";0;0;0;0;0
+"nl.implode.regenalarm";"Science & Education";0;4;NA;"false";0;0;0;0;0
+"de.uni_potsdam.hpi.openmensa";"Sports & Health";0;2;NA;"false";0;0;0;0;0
+"info.schnatterer.nusic";"Multimedia";7;74;3.71428571428571;"false";1;0;0;2;3
+"com.tengu.sharetoclipboard";"System";0;7;NA;"false";0;0;0;0;0
+"org.systemcall.scores";"Games";0;0;NA;"false";0;0;0;0;0
+"org.androidsoft.games.puzzle.kids";"Games";0;16;NA;"false";0;0;0;0;0
+"info.guardianproject.pixelknot";"Security";0;37;NA;"false";0;0;0;0;0
+"de.wikilab.android.friendica01";"Internet";0;41;NA;"false";0;0;0;0;0
+"fr.nocle.passegares";"Navigation";2;67;23.5;"false";0;0;0;0;2
+"me.tripsit.tripmobile";"Sports & Health";0;32;NA;"false";0;0;0;0;0
+"cacafogo.software.touchBalance";"Phone & SMS";0;30;NA;"false";0;0;0;0;0
+"com.plusonelabs.calendar";"Time";13;63;3.38461538461538;"false";0;0;0;0;2
+"fi.harism.wallpaper.yinyang";"Theming";0;3;NA;"false";0;0;0;0;0
+"com.shapps.mintubeapp";"Multimedia";1;22;1;"false";0;0;0;0;0
+"gr.ndre.scuttloid";"Internet";0;14;NA;"false";0;0;0;0;0
+"net.mypapit.mobile.myposition";"Navigation";0;8;NA;"false";0;0;0;0;0
+"de.antonwolf.agendawidget";"Time";0;21;NA;"false";0;0;0;0;0
+"community.peers.license";"Development";2;6;1;"false";0;0;0;0;0
+"org.ligi.passandroid";"Reading";0;26;NA;"false";0;0;0;0;0
+"com.farmerbb.taskbar";"System";0;102;NA;"false";0;0;0;0;0
+"kiwi.root.an2linuxclient";"Connectivity";0;71;NA;"false";0;0;0;0;0
+"com.primavera.arduino.listener";"Development";0;4;NA;"false";0;0;0;0;0
+"fr.simon.marquis.preferencesmanager";"System";0;29;NA;"false";0;0;0;0;0
+"org.us.andriod";"Science & Education";0;12;NA;"false";0;0;0;0;0
+"com.crazyhitty.chdev.ks.munch";"Reading";6;88;1;"false";0;0;0;0;0
+"se.tube42.p9.android";"Games";0;41;NA;"false";0;0;0;0;0
+"org.jf.Penroser";"Theming";0;33;NA;"false";0;0;0;0;0
+"com.silverkeytech.android_rivers";"Internet";0;312;NA;"false";0;0;0;0;0
+"com.numix.calculator";"Science & Education";3;198;1.66666666666667;"false";0;0;0;0;0
+"com.nanoconverter.zlab";"Money";0;7;NA;"false";0;0;0;0;0
+"org.dolphinemu.dolphinemu";"Games";0;101;NA;"false";0;0;0;0;0
+"com.fullscreen";"Reading";1;8;1;"false";0;0;0;0;0
+"com.dirkgassen.wator";"Games";1;13;1;"false";0;0;0;0;0
+"com.google.zxing.client.android";"Multimedia";145;341;4.13103448275862;"false";0;0;0;0;17
+"com.jeffboody.GearsES2eclair";"Development";2;1;1;"false";0;0;0;0;0
+"com.notriddle.null_launcer";"Development";0;4;NA;"false";0;0;0;0;0
+"io.github.phora.androptpb";"Internet";2;19;4;"false";1;0;0;0;0
+"privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist";"Multimedia";12;126;4.08333333333333;"false";0;0;0;0;7
+"com.tobiaskuban.android.monthcalendarwidgetfoss";"Theming";0;17;NA;"false";0;0;0;0;0
+"ml.adamsprogs.bimba";"Navigation";0;3;NA;"false";0;0;0;0;0
+"com.thehoick.evergreenwishlist";"Reading";0;0;NA;"false";0;0;0;0;0
+"com.adstrosoftware.launchappops";"System";0;3;NA;"false";0;0;0;0;0
+"de.homac.Mirrored";"Reading";0;20;NA;"false";0;0;0;0;0
+"atm.rocketguardian";"Games";0;30;NA;"false";0;0;0;0;0
+"org.wroot.android.goldeneye";"Internet";0;5;NA;"false";0;0;0;0;0
+"jp.takke.cpustats";"System";1;3;4;"false";0;0;0;0;0
+"com.falconware.prestissimo";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"com.joulespersecond.seattlebusbot";"Navigation";42;308;6;"false";0;0;0;0;3
+"com.mgaetan89.showsrage";"Internet";0;1;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlynetmonitor";"System";1;43;6;"false";0;0;0;0;1
+"com.naman14.stools";"System";1;76;1;"false";0;0;0;0;0
+"com.google.android.apps.authenticator2";"Security";26;73;14.6923076923077;"false";7;1;0;1;12
+"jp.ksksue.app.terminal";"Development";0;5;NA;"false";0;0;0;0;0
+"com.grapefruitopia.dashclock.k9";"Theming";0;2;NA;"false";0;0;0;0;0
+"de.nico.gpt";"Games";0;2;NA;"false";0;0;0;0;0
+"de.ub0r.android.websms.connector.smspilotru";"Phone & SMS";0;2;NA;"false";0;0;0;0;0
+"com.nesswit.galbijjimsearcher";"Multimedia";1;129;1;"false";0;0;0;0;1
+"uk.co.yahoo.p1rpp.calendartrigger";"Time";0;32;NA;"false";0;0;0;0;0
+"io.homeassistant.android";"System";1;44;10;"false";0;0;0;0;0
+"com.mikifus.padland";"Writing";1;42;1;"false";0;0;0;0;0
+"com.btcontract.wallet";"Money";0;5;NA;"false";0;0;0;0;0
+"cx.ring";"Phone & SMS";0;1;NA;"false";0;0;0;0;0
+"de.sigfood";"Internet";1;19;1;"false";0;0;0;0;0
+"de.we.acaldav";"System";0;38;NA;"false";0;0;0;0;0
+"io.github.powerinside.syncplay";"Connectivity";2;16;1;"false";0;0;0;0;0
+"org.zakky.memopad";"Graphics";0;9;NA;"false";0;0;0;0;0
+"com.github.yeriomin.yalpstore";"System";0;281;NA;"false";0;0;0;0;0
+"org.gateshipone.odyssey";"Multimedia";0;137;NA;"false";0;0;0;0;0
+"org.miamplayer.autoairplanemode";"Time";0;8;NA;"false";0;0;0;0;0
+"com.shadcat.secdroid";"Security";0;0;NA;"false";0;0;0;0;0
+"io.github.benoitduffez.cupsprint";"Connectivity";0;1;NA;"false";0;0;0;0;0
+"de.bitsharesmunich.smartcoinswallet";"Money";2;149;1;"false";0;0;0;0;1
+"com.jforce.chapelhillnextbus";"Navigation";3;40;3.66666666666667;"false";0;0;0;0;0
+"me.jakelane.wrapperforfacebook";"Internet";2;10;1;"false";0;0;0;0;0
+"org.fossasia.openevent";"Time";1;4;1;"false";0;0;0;0;0
+"mobi.boilr.boilr";"Money";0;45;NA;"false";0;0;0;0;0
+"org.gfd.gsmlocation";"Navigation";0;101;NA;"false";0;0;0;0;0
+"uk.co.ashtonbrsc.android.intentintercept";"Development";0;9;NA;"false";0;0;0;0;0
+"com.saladdressing.veterondo";"Multimedia";2;23;1;"false";0;0;0;0;0
+"org.billthefarmer.tuner";"Multimedia";0;22;NA;"false";0;0;0;0;0
+"de.baumann.hhsmoodle";"Time";0;11;NA;"false";0;0;0;0;0
+"com.tobykurien.webapps";"Internet";0;0;NA;"false";0;0;0;0;0
+"org.creativecommons.thelist";"Multimedia";2;55;1;"false";1;0;0;0;0
+"net.pejici.easydice";"Games";3;17;18.3333333333333;"false";0;0;0;0;0
+"link.standen.michael.fatesheets";"Games";0;39;NA;"false";0;0;0;0;0
+"info.guardianproject.browser";"Internet";0;27;NA;"false";0;0;0;0;0
+"org.scid.android";"Games";0;81;NA;"false";0;0;0;0;0
+"com.jbirdvegas.mgerrit";"Development";0;149;NA;"false";0;0;0;0;0
+"com.iskrembilen.quasseldroid";"Internet";0;132;NA;"false";0;0;0;0;0
+"headrevision.BehatReporter";"Internet";11;50;4.54545454545455;"false";0;0;0;0;9
+"dk.jens.backup";"System";16;62;3.875;"false";0;0;0;0;12
+"org.schabi.sharewithnewpipe";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"fr.bellev.stdatmosphere";"Science & Education";0;21;NA;"false";0;0;0;0;0
+"de.repat.mosf";"System";0;2;NA;"false";0;0;0;0;0
+"org.berlin_vegan.bvapp";"Navigation";5;36;2.6;"false";0;0;0;0;4
+"com.danvelazco.fbwrapper";"Internet";0;11;NA;"false";0;0;0;0;0
+"com.bretternst.URLazy";"Development";0;2;NA;"false";0;0;0;0;0
+"com.achep.acdisplay";"System";9;260;1.88888888888889;"false";0;0;0;0;0
+"org.sensors2.pd";"Multimedia";1;15;1;"false";0;0;0;0;0
+"de.simplestatswidget";"Phone & SMS";0;5;NA;"false";0;0;0;0;0
+"com.app.missednotificationsreminder";"Connectivity";4;97;2.75;"false";0;0;0;0;1
+"pl.librus.client";"Science & Education";19;170;4.57894736842105;"false";0;0;0;0;9
+"de.onyxbits.droidentify";"System";0;69;NA;"false";0;0;0;0;0
+"nodom.darkfm.inventoryguimobile";"Development";0;0;NA;"false";0;0;0;0;0
+"org.blokada.alarm";"Internet";0;3;NA;"false";0;0;0;0;0
+"eu.prismsw.lampshade";"Reading";0;46;NA;"false";0;0;0;0;0
+"de.arnefeil.bewegungsmelder";"Time";0;20;NA;"false";0;0;0;0;0
+"tkj.android.homecontrol.mythmote";"Multimedia";0;30;NA;"false";0;0;0;0;0
+"app.android.com.materialfilemanager";"System";2;16;1;"false";0;0;0;0;0
+"com.ds.avare";"Navigation";9;339;11.8888888888889;"false";1;0;0;0;7
+"com.google.android.diskusage";"System";0;93;NA;"false";0;0;0;0;0
+"com.github.timnew.smartremotecontrol";"System";0;14;NA;"false";0;0;0;0;0
+"org.bombusmod";"Internet";0;362;NA;"false";0;0;0;0;0
+"at.maui.cheapcast";"Multimedia";0;39;NA;"false";0;0;0;0;0
+"info.guardianproject.cacert";"Security";1;6;1;"false";0;0;0;0;0
+"net.screenfreeze.deskcon";"System";0;22;NA;"false";0;0;0;0;0
+"org.jamienicol.episodes";"Multimedia";0;37;NA;"false";0;0;0;0;0
+"com.freezingwind.animereleasenotifier";"Time";1;17;1;"false";0;0;0;0;0
+"com.redirectapps.tvkill";"Multimedia";1;9;1;"false";0;0;0;0;0
+"org.cyanogenmod.great.freedom";"Theming";0;7;NA;"false";0;0;0;0;0
+"ryey.camcov";"System";2;6;1;"false";0;0;0;0;0
+"in.indiandragon.shellshock.shellshockvulnerabilityscan";"Security";1;2;1;"false";0;0;0;0;0
+"org.legtux.m_316k.taptheblacktiles";"Games";1;1;1;"false";0;0;0;0;0
+"de.karbach.tac";"Games";1;53;1;"false";0;0;0;0;0
+"org.fitchfamily.android.gsmlocation";"Navigation";0;40;NA;"false";0;0;0;0;0
+"com.tinkerlog.android.pongtime";"Time";0;2;NA;"false";0;0;0;0;0
+"com.andybotting.tramhunter";"Navigation";2;40;2;"false";1;0;0;0;1
+"net.lardcave.keepassnfc";"Connectivity";2;15;1;"false";0;0;0;0;0
+"info.guardianproject.checkey";"Development";0;9;NA;"false";0;0;0;0;0
+"com.zola.bmi";"Sports & Health";0;1;NA;"false";0;0;0;0;0
+"com.easytarget.micopi";"Graphics";0;18;NA;"false";0;0;0;0;0
+"net.nullsum.audinaut";"Multimedia";0;144;NA;"false";0;0;0;0;0
+"org.projectvoodoo.simplecarrieriqdetector";"Security";0;4;NA;"false";0;0;0;0;0
+"org.asdtm.goodweather";"Internet";2;40;1;"false";0;0;0;0;0
+"info.frangor.laicare";"Time";2;30;10;"false";0;0;0;1;0
+"libretasks.app";"System";0;162;NA;"false";0;0;0;0;0
+"org.segin.ttleditor";"Development";1;4;1;"false";0;0;0;0;0
+"org.mcxa.vortaro";"Reading";2;2;1;"false";0;0;0;0;0
+"com.boombuler.piraten.map";"Navigation";1;62;25;"false";0;0;0;0;1
+"com.ichi2.anki";"Science & Education";24;258;5.375;"false";0;0;0;2;8
+"szelok.app.twister";"Internet";0;14;NA;"false";0;0;0;0;0
+"acr.browser.lightning";"Internet";0;27;NA;"false";0;0;0;0;0
+"org.softcatala.traductor";"Reading";0;22;NA;"false";0;0;0;0;0
+"com.jaygoel.virginminuteschecker";"System";2;24;2;"false";0;0;0;0;1
+"org.wordpress.android";"Internet";34;560;6.97058823529412;"false";0;0;1;1;17
+"org.ale.openwatch";"Multimedia";0;70;NA;"false";0;0;0;0;0
+"io.github.whirish.tvbuses";"Navigation";0;0;NA;"false";0;0;0;0;0
+"com.termux.boot";"Development";0;3;NA;"false";0;0;0;0;0
+"de.serverfrog.pw.android";"Internet";1;13;2;"false";0;0;0;0;0
+"com.weatherlight.elloshare";"Internet";0;7;NA;"false";0;0;0;0;0
+"com.derek_s.hubble_gallery";"Multimedia";1;43;1;"false";0;0;0;0;0
+"com.noshufou.android.su";"System";0;117;NA;"false";0;0;0;0;0
+"org.billthefarmer.accordion";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"com.tnc.android.graphite";"Internet";0;38;NA;"false";0;0;0;0;0
+"com.jakewharton.telecine";"Multimedia";1;20;9;"false";0;0;0;0;1
+"me.anuraag.grader";"Science & Education";1;6;1;"false";0;0;0;0;0
+"jp.co.kayo.android.localplayer.ds.ampache";"Multimedia";0;143;NA;"false";0;0;0;0;0
+"com.willhauck.linconnectclient";"System";0;8;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlymemory";"Games";3;26;2;"false";0;0;0;0;1
+"org.iilab.openmentoring";"Science & Education";0;81;NA;"false";0;0;0;0;0
+"com.sismics.reader";"Reading";30;221;4.66666666666667;"false";0;0;0;0;30
+"com.doomy.overflow";"Phone & SMS";2;25;1;"false";0;0;0;0;0
+"com.jmartin.temaki";"Writing";0;13;NA;"false";0;0;0;0;0
+"de.lihotzki.pixelflood";"Graphics";0;7;NA;"false";0;0;0;0;0
+"org.billthefarmer.siggen";"Multimedia";0;9;NA;"false";0;0;0;0;0
+"fr.xtof54.dragonGoApp";"Games";1;58;1;"false";0;0;0;0;0
+"org.microg.nlp.backend.openwlanmap";"Navigation";0;5;NA;"false";0;0;0;0;0
+"io.gitlab.mudassir.youtubecacher";"Multimedia";0;12;NA;"false";0;0;0;0;0
+"org.bc_bd.mrwhite";"System";0;0;NA;"false";0;0;0;0;0
+"de.c3nav.droid";"Navigation";0;0;NA;"false";0;0;0;0;0
+"de.feisar.wordvalue";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"com.moonpi.swiftnotes";"Writing";0;0;NA;"false";0;0;0;0;0
+"com.sunshine.makilite";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.bottleworks.dailymoney";"Money";0;0;NA;"false";0;0;0;0;0
+"com.wangdaye.mysplash";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.vadimfrolov.duorem";"System";0;0;NA;"false";0;0;0;0;0
+"atm.starun.game";"Games";0;12;NA;"false";0;0;0;0;0
+"com.zenstyle.muzei.wlppr";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.timvdalen.gizmooi";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.nathanosman.chronosnap";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"io.github.fxthomas.sshbeam";"Internet";0;0;NA;"false";0;0;0;0;0
+"org.itishka.pointim";"Internet";0;0;NA;"false";0;0;0;0;0
+"org.mmk2410.cyngn.theme.fira";"Theming";0;1;NA;"false";0;0;0;0;0
+"fr.tvbarthel.apps.cameracolorpicker";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"at.bitfire.gfxtablet";"Graphics";0;0;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlydicer";"Games";0;0;NA;"false";0;0;0;0;0
+"com.earthblood.tictactoe";"Games";0;0;NA;"false";0;0;0;0;0
+"com.boztalay.puppyframeuid";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"de.drhoffmannsoftware.xearth";"Theming";0;10;NA;"false";0;0;0;0;0
+"am.zoom.mlauncher";"System";0;0;NA;"false";0;0;0;0;0
+"name.soulayrol.rhaa.sholi";"Writing";0;0;NA;"false";0;0;0;0;0
+"com.projectsexception.myapplist.open";"System";0;0;NA;"false";0;0;0;0;0
+"org.blockinger.game";"Games";0;0;NA;"false";0;0;0;0;0
+"com.rastating.droidbeard";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.agnibho.android.solarcompass";"Navigation";0;0;NA;"false";0;0;0;0;0
+"com.traffar.oware";"Games";0;3;NA;"false";0;0;0;0;0
+"io.github.tompreuss.apnsettings";"System";0;2;NA;"false";0;0;0;0;0
+"com.samebits.beacon.locator";"System";2;70;1;"false";0;0;0;0;0
+"be.uhasselt.privacypolice";"Connectivity";0;13;NA;"false";0;0;0;0;0
+"ch.fixme.status";"Time";0;14;NA;"false";0;0;0;0;0
+"in.ac.dtu.subtlenews";"Reading";0;12;NA;"false";0;0;0;0;0
+"org.evilsoft.pathfinder.reference";"Games";0;165;NA;"false";0;0;0;0;0
+"com.mykola.lexinproject";"Reading";0;0;NA;"false";0;0;0;0;0
+"com.tastycactus.timesheet";"Time";1;10;1;"false";1;0;0;0;0
+"at.bitfire.nophonespam";"Phone & SMS";0;10;NA;"false";0;0;0;0;0
+"com.intrications.android.sharebrowser";"Internet";0;4;NA;"false";0;0;0;0;0
+"com.dftec.planetcon";"Games";0;27;NA;"false";0;0;0;0;0
+"net.ebt.muzei.miyazaki";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"org.chorem.android.saymytexts";"Phone & SMS";0;0;NA;"false";0;0;0;0;0
+"org.congresointeractivo.elegilegi";"Games";0;4;NA;"false";0;0;0;0;0
+"com.cebesius.materialhash";"Science & Education";4;25;5.75;"false";0;0;0;0;3
+"com.antoniotari.reactiveampacheapp";"Multimedia";2;48;1;"false";0;0;0;0;0
+"org.mariotaku.twidere";"Internet";3;496;11.6666666666667;"false";0;0;0;0;3
+"net.wigle.wigleandroid";"Connectivity";32;166;7.6875;"false";0;0;1;0;28
+"com.simplemobiletools.filemanager";"System";0;1;NA;"false";0;0;0;0;0
+"com.daviancorp.android.mh4udatabase";"Games";2;265;3;"false";0;0;0;0;1
+"net.oschina.app";"Reading";0;121;NA;"false";0;0;0;0;0
+"de.cketti.dashclock.k9";"Theming";0;7;NA;"false";0;0;0;0;0
+"com.dgmltn.morphclock.app";"Time";0;18;NA;"false";0;0;0;0;0
+"fi.harism.wallpaper.flowers";"Theming";0;0;NA;"false";0;0;0;0;0
+"me.bpear.archonpackager";"System";0;9;NA;"false";0;0;0;0;0
+"net.micode.soundrecorder";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"pl.net.szafraniec.NFCTagmaker";"Connectivity";0;12;NA;"false";0;0;0;0;0
+"com.android.keepass";"Security";19;227;3.68421052631579;"false";0;0;0;0;11
+"com.uploadedlobster.PwdHash";"Internet";4;9;5.5;"false";0;0;0;0;3
+"groomiac.crocodilenote";"Writing";0;15;NA;"false";0;0;0;0;0
+"com.viper.simplert";"Internet";0;5;NA;"false";0;0;0;0;0
+"eu.veldsoft.tuty.fruty.slot";"Games";0;29;NA;"false";0;0;0;0;0
+"com.github.axet.audiorecorder";"Multimedia";2;14;1.5;"false";0;0;0;0;0
+"jackpal.droidexaminer";"System";0;6;NA;"false";0;0;0;0;0
+"io.github.lonamiwebs.klooni";"Games";0;40;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlyyahtzeedicer";"Games";2;12;1;"false";0;0;0;0;0
+"com.googlecode.chartdroid";"Multimedia";1;518;4;"false";0;0;0;0;0
+"buet.rafi.dictionary";"Reading";0;10;NA;"false";0;0;0;0;0
+"com.kn.paper_foss_theme";"Theming";0;0;NA;"false";0;0;0;0;0
+"org.servalproject.maps";"Navigation";1;97;25;"false";0;0;0;0;1
+"org.andglkmod.hunkypunk";"Games";0;45;NA;"false";0;0;0;0;0
+"sun.bob.leela";"Security";2;85;1;"false";0;0;0;0;0
+"info.guardianproject.courier";"Reading";0;107;NA;"false";0;0;0;0;0
+"com.jwetherell.heart_rate_monitor";"Sports & Health";0;4;NA;"false";0;0;0;0;0
+"com.example.openpass";"Security";2;12;1;"false";0;0;0;0;0
+"com.dngames.mobilewebcam";"Multimedia";0;44;NA;"false";0;0;0;0;0
+"com.github.xloem.qrstream";"Security";1;7;1;"false";0;0;0;0;0
+"dk.kk.ibikecph";"Navigation";3;273;3.33333333333333;"false";0;0;0;0;0
+"com.numguesser.tonio_rpchp.numberguesser";"Games";1;3;1;"false";0;0;0;0;0
+"org.twelf.cmtheme";"Theming";0;1;NA;"false";0;0;0;0;0
+"com.mschlauch.comfortreader";"Reading";5;40;1.2;"false";1;0;0;0;2
+"com.menny.android.anysoftkeyboard";"Writing";154;271;8.55844155844156;"false";3;0;20;2;86
+"com.adonai.manman";"Development";2;46;6.5;"false";0;0;0;0;1
+"it.mobimentum.dualsimwidget";"Phone & SMS";0;7;NA;"false";0;0;0;0;0
+"org.envaya.sms";"Phone & SMS";1;57;9;"false";0;0;0;0;0
+"org.mozilla.klar";"Internet";37;69;5.62162162162162;"false";0;0;0;0;9
+"com.github.axet.hourlyreminder";"Multimedia";2;37;1;"false";0;0;0;0;0
+"teaonly.droideye";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"trikita.slide";"Writing";0;12;NA;"false";0;0;0;0;0
+"com.paranoid.ParanoidWallpapers";"Theming";0;3;NA;"false";0;0;0;0;0
+"de.drhoffmannsoftware";"Science & Education";0;11;NA;"false";0;0;0;0;0
+"org.androidappdev.wifiwidget";"Theming";0;1;NA;"false";0;0;0;0;0
+"com.sinpo.xnfc";"Connectivity";0;26;NA;"false";0;0;0;0;0
+"org.quantumbadger.redreader";"Internet";2;257;15.5;"false";0;0;0;0;2
+"com.tobykurien.google_news";"Internet";0;7;NA;"false";0;0;0;0;0
+"jp.sfjp.webglmol.NDKmol";"Science & Education";0;13;NA;"false";0;0;0;0;0
+"rino.org.tethercompanion";"Connectivity";2;11;1;"false";0;0;0;0;0
+"com.blanyal.remindly";"Time";1;11;1;"false";0;0;0;0;0
+"com.eleybourn.bookcatalogue";"Reading";2;243;15.5;"false";0;0;0;0;2
+"tuioDroid.impl";"System";0;9;NA;"false";0;0;0;0;0
+"protect.budgetwatch";"Money";14;42;9.92857142857143;"false";8;0;0;0;3
+"net.stkaddons.viewer";"Games";0;24;NA;"false";0;0;0;0;0
+"fr.renzo.wikipoff";"Reading";0;41;NA;"false";0;0;0;0;0
+"com.alaskalinuxuser.criticalvelocity";"Games";0;4;NA;"false";0;0;0;0;0
+"fi.harism.wallpaper.flier";"Theming";0;0;NA;"false";0;0;0;0;0
+"ca.rmen.nounours";"Games";1;57;8;"false";0;0;0;0;1
+"org.tamanegi.atmosphere";"Science & Education";0;9;NA;"false";0;0;0;0;0
+"com.aragaer.jtt";"System";26;46;4.84615384615385;"false";1;0;0;0;19
+"org.eff.actioncenter";"Internet";0;1;NA;"false";0;0;0;0;0
+"kvj.taskw";"System";1;27;1;"false";0;0;0;0;0
+"com.enrico.earthquake.batterysimplysolid";"Theming";0;6;NA;"false";0;0;0;0;0
+"com.gmail.mugcuposup.android";"Multimedia";0;13;NA;"false";0;0;0;0;0
+"com.gimranov.zandy.app";"Reading";4;33;5.75;"false";0;0;0;0;0
+"org.developfreedom.ccdroid.app";"Development";13;22;3.23076923076923;"false";1;0;1;0;7
+"com.pierceholdings.dontpause";"Multimedia";0;35;NA;"false";0;0;0;0;0
+"com.sapientech.mediagoblin";"Multimedia";0;2;NA;"false";0;0;0;0;0
+"com.selbie.wrek";"Multimedia";3;25;1.66666666666667;"false";0;0;0;0;0
+"fr.ludo1520.whatexp";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"com.SecUpwN.AIMSICD";"Security";1;105;1;"false";0;0;0;0;1
+"org.scoutant.blokish";"Games";4;19;7.25;"false";0;0;0;0;4
+"com.health.openscale";"Sports & Health";11;122;6.09090909090909;"false";0;0;0;0;5
+"de.baumann.thema";"Theming";0;8;NA;"false";0;0;0;0;0
+"de.measite.contactmerger";"System";0;33;NA;"false";0;0;0;0;0
+"com.wanderfar.expander";"System";10;14;12.9;"false";0;0;0;0;0
+"com.jmelzer.myttr";"Internet";27;148;6.25925925925926;"false";0;0;0;0;14
+"com.grarak.kerneladiutor";"Development";2;202;1;"false";0;0;0;0;0
+"com.anysoftkeyboard.languagepack.persian";"Writing";0;2;NA;"false";0;0;0;0;0
+"com.mattallen.loaned";"Money";0;39;NA;"false";0;0;0;0;0
+"uk.co.busydoingnothing.catverbs";"Science & Education";0;13;NA;"false";0;0;0;0;0
+"in.blogspot.anselmbros.torchie";"System";0;58;NA;"false";0;0;0;0;0
+"org.jsl.shmp";"Games";0;24;NA;"false";0;0;0;0;0
+"com.ilm.sandwich";"Navigation";0;25;NA;"false";0;0;0;0;0
+"x653.bullseye";"Games";0;20;NA;"false";0;0;0;0;0
+"com.littlebytesofpi.pylauncher";"Development";0;40;NA;"false";0;0;0;0;0
+"com.jakebasile.android.hearingsaver";"System";0;7;NA;"false";0;0;0;0;0
+"org.tuxpaint";"Graphics";0;6;NA;"false";0;0;0;0;0
+"com.jmartin.writeily";"Writing";0;16;NA;"false";0;0;0;0;0
+"com.maxfierke.sandwichroulette";"Games";0;14;NA;"false";0;0;0;0;0
+"com.nutomic.zertman";"System";4;7;5.25;"false";1;0;0;1;2
+"com.elsewhat.android.currentwallpaper";"Theming";0;1;NA;"false";0;0;0;0;0
+"de.stefan_oltmann.falling_blocks";"Games";0;12;NA;"false";0;0;0;0;0
+"org.wiktionary";"Internet";0;18;NA;"false";0;0;0;0;0
+"org.totschnig.sendwithftp";"Internet";0;5;NA;"false";0;0;0;0;0
+"org.adaway";"System";2;103;4.5;"false";0;0;0;0;2
+"de.steinpfeffer.rdt";"Science & Education";0;2;NA;"false";0;0;0;0;0
+"sk.baka.aedict";"Reading";31;65;7.80645161290323;"false";11;0;0;0;11
+"cri.sanity";"Phone & SMS";0;76;NA;"false";0;0;0;0;0
+"org.softeg.slartus.forpdaplus";"Internet";7;360;2.42857142857143;"false";0;0;0;1;0
+"com.miqote.shanawp";"Theming";0;7;NA;"false";0;0;0;0;0
+"org.y20k.transistor";"Multimedia";0;30;NA;"false";0;0;0;0;0
+"name.seguri.android.getforegroundactivity";"System";0;5;NA;"false";0;0;0;0;0
+"org.indywidualni.fblite";"Internet";1;29;6;"false";0;0;0;0;1
+"com.orphan.amplayer";"Multimedia";0;2;NA;"false";0;0;0;0;0
+"org.xbmc.android.remote";"Multimedia";1;409;27;"false";0;0;0;0;1
+"se.tube42.drum.android";"Multimedia";0;49;NA;"false";0;0;0;0;0
+"com.shahul3d.indiasatelliteweather";"Science & Education";1;30;1;"false";0;0;0;0;0
+"net.nurik.roman.muzei";"Multimedia";0;7;NA;"false";0;0;0;0;0
+"io.gresse.hugo.anecdote";"Reading";2;87;1;"false";0;0;0;0;0
+"ch.jiikuy.velocitycalculator";"Graphics";2;6;1;"false";0;0;0;0;0
+"fi.testbed2";"Science & Education";17;53;3.88235294117647;"false";2;0;0;0;9
+"name.bagi.levente.pedometer";"Sports & Health";0;18;NA;"false";0;0;0;0;0
+"org.geometerplus.fbreader.plugin.local_opds_scanner";"Reading";1;11;1;"false";0;0;0;0;0
+"org.jfet.batsHIIT";"Sports & Health";0;3;NA;"false";0;0;0;0;0
+"org.ligi.etheremote";"Security";1;6;6;"false";0;0;0;0;0
+"de.eidottermihi.raspicheck";"Connectivity";12;63;3.25;"false";2;0;0;0;0
+"com.google.code.apps2org";"System";0;131;NA;"false";0;0;0;0;0
+"com.wmstein.transektcount";"Science & Education";0;55;NA;"false";0;0;0;0;0
+"com.github.axet.mover";"System";2;12;1;"false";0;0;0;0;0
+"com.numix.icons_circle";"Multimedia";1;26;4;"false";0;0;1;0;0
+"ch.rrelmy.android.locationcachemap";"System";0;20;NA;"false";0;0;0;0;0
+"com.frrahat.quransimple";"Reading";0;28;NA;"false";0;0;0;0;0
+"lanchon.sigspoof.checker";"System";0;2;NA;"false";0;0;0;0;0
+"com.traffar.gomoku";"Games";0;3;NA;"false";0;0;0;0;0
+"eu.inmite.android.gridwichterle";"Development";0;22;NA;"false";0;0;0;0;0
+"com.powerje.nyan";"Theming";0;1;NA;"false";0;0;0;0;0
+"com.googlecode.androidcells";"Internet";1;18;5;"false";0;0;0;0;0
+"net.mcarolan.whenzebus";"Navigation";0;40;NA;"false";0;0;0;0;0
+"tw.idv.palatis.danboorugallery";"Multimedia";0;54;NA;"false";0;0;0;0;0
+"it.lucci.cm.greyscaletheme";"Theming";0;0;NA;"false";0;0;0;0;0
+"net.iowaline.dotdash";"Writing";0;7;NA;"false";0;0;0;0;0
+"org.ligi.vaporizercontrol";"Science & Education";3;9;1;"false";0;0;0;0;0
+"com.f2prateek.dfg";"Development";0;42;NA;"false";0;0;0;0;0
+"com.nextcloud.client";"Internet";41;399;3.46341463414634;"false";2;0;0;0;8
+"com.mde.potdroid";"Internet";0;88;NA;"false";0;0;0;0;0
+"org.lf_net.pgpunlocker";"Internet";0;11;NA;"false";0;0;0;0;0
+"com.FireFart.Permissions2";"System";0;1;NA;"false";0;0;0;0;0
+"de.vibora.viborafeed";"Internet";0;14;NA;"false";0;0;0;0;0
+"org.sugr.gearshift";"Internet";3;62;16;"false";0;0;0;0;2
+"de.j4velin.systemappmover";"System";0;7;NA;"false";0;0;0;0;0
+"org.xapek.andiodine";"Connectivity";0;13;NA;"false";0;0;0;0;0
+"a2dp.Vol";"Multimedia";0;22;NA;"false";0;0;0;0;0
+"org.mariotaku.twidere.extension.twitlonger";"Internet";0;13;NA;"false";0;0;0;0;0
+"com.nilhcem.hostseditor";"Development";0;35;NA;"false";0;0;0;0;0
+"ch.dissem.android.drupal";"Internet";0;35;NA;"false";0;0;0;0;0
+"uk.ac.cam.cl.dtg.android.barcodebox";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"org.ligi.survivalmanual";"Reading";0;1;NA;"false";0;0;0;0;0
+"org.redcross.openmapkit";"Navigation";6;200;8;"false";0;0;0;0;3
+"com.polipoid";"Internet";0;3;NA;"false";0;0;0;0;0
+"org.servDroid.web";"Development";0;72;NA;"false";0;0;0;0;0
+"com.ubergeek42.WeechatAndroid";"Internet";5;102;10.8;"false";0;0;0;0;2
+"com.traffar.a24game";"Games";0;3;NA;"false";0;0;0;0;0
+"org.ethack.orwall";"Internet";1;42;1;"false";0;0;0;0;0
+"com.Bisha.TI89EmuDonation";"Science & Education";0;62;NA;"false";0;0;0;0;0
+"com.dacer.simplepomodoro";"Time";0;63;NA;"false";0;0;0;0;0
+"ca.rmen.android.networkmonitor";"Connectivity";13;93;4.84615384615385;"false";0;0;0;0;0
+"net.inclem.nogo";"Games";0;2;NA;"false";0;0;0;0;0
+"com.stwalkerster.android.apps.strobelight";"System";0;2;NA;"false";0;0;0;0;0
+"info.aario.snotepad";"Writing";0;6;NA;"false";0;0;0;0;0
+"com.androzic";"Navigation";2;127;4.5;"false";0;0;0;0;1
+"info.guardianproject.locationprivacy";"Navigation";0;19;NA;"false";0;0;0;0;0
+"com.allansimon.verbisteandroid";"Science & Education";0;5;NA;"false";0;0;0;0;0
+"se.anyro.nfc_reader";"Connectivity";0;6;NA;"false";0;0;0;0;0
+"com.tttdevs.stncbookmarks";"Internet";0;3;NA;"false";0;0;0;0;0
+"streetwalrus.usbmountr";"System";0;1;NA;"false";0;0;0;0;0
+"com.b44t.messenger";"Internet";0;376;NA;"false";0;0;0;0;0
+"com.mattieapps.roommates";"Science & Education";1;38;1;"false";0;0;0;0;0
+"moe.minori.pgpclipper";"Security";1;14;1;"false";0;0;0;0;0
+"com.hlidskialf.android.pomodoro";"Time";0;9;NA;"false";0;0;0;0;0
+"ch.bailu.aat";"Navigation";8;727;4.25;"false";0;0;0;0;3
+"org.ametro";"Navigation";1;129;2;"false";0;0;0;0;0
+"org.billthefarmer.melodeon";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"fr.simon.marquis.secretcodes";"Security";2;9;1;"false";0;0;0;0;0
+"org.esteban.piano";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"com.renard.ocr";"Multimedia";3;117;5.66666666666667;"false";0;0;0;0;2
+"com.fisheradelakin.vortex";"Time";1;13;1;"false";0;0;0;0;0
+"eu.johncasson.meerkatchallenge";"Games";0;0;NA;"false";0;0;0;0;0
+"de.msal.muzei.nationalgeographic";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"com.github.sryze.wirebug";"Development";0;11;NA;"false";0;0;0;0;0
+"com.mobiperf";"Development";11;51;3.27272727272727;"false";0;0;0;0;7
+"com.liato.bankdroid";"Money";4;189;5.75;"false";0;0;0;0;3
+"com.mathi_amorim.emmanuel.metrictime";"Time";0;9;NA;"false";0;0;0;0;0
+"org.webodf";"Reading";0;7;NA;"false";0;0;0;0;0
+"click.dummer.funphonepuppet";"Games";0;1;NA;"false";0;0;0;0;0
+"com.googlecode.networklog";"Development";4;228;3.25;"false";0;0;0;0;0
+"com.diegocarloslima.byakugallery";"Multimedia";0;11;NA;"false";0;0;0;0;0
+"com.mkulesh.micromath.plus";"Science & Education";4;225;10.25;"false";0;0;0;0;1
+"com.markuspage.android.certtools";"System";0;9;NA;"false";0;0;0;0;0
+"org.androidsoft.games.slowit";"Games";0;28;NA;"false";0;0;0;0;0
+"com.tasomaniac.openwith.floss";"Internet";0;35;NA;"false";0;0;0;0;0
+"org.qii.weiciyuan";"Internet";0;513;NA;"false";0;0;0;0;0
+"im.tox.antox";"Internet";0;18;NA;"false";0;0;0;0;0
+"com.twistedplane.sealnote";"Writing";0;48;NA;"false";0;0;0;0;0
+"org.ligi.blexplorer";"Development";0;7;NA;"false";0;0;0;0;0
+"com.spazedog.mounts2sd";"System";0;28;NA;"false";0;0;0;0;0
+"com.example.root.analyticaltranslator";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"com.anysoftkeyboard.languagepack.malayalam";"Writing";0;0;NA;"false";0;0;0;0;0
+"it.devapp.android";"Navigation";0;0;NA;"false";0;0;0;0;0
+"com.shkmishra.lyrically";"Multimedia";2;15;1;"false";0;0;0;0;0
+"org.rmll";"Time";3;31;2.66666666666667;"false";0;0;0;0;1
+"fr.tvbarthel.apps.simplethermometer";"System";0;20;NA;"false";0;0;0;0;0
+"eu.lavarde.pmtd";"Science & Education";0;25;NA;"false";0;0;0;0;0
+"org.dynalogin.android";"Security";0;9;NA;"false";0;0;0;0;0
+"org.projectvoodoo.otarootkeeper";"System";0;6;NA;"false";0;0;0;0;0
+"org.fitchfamily.android.symphony";"Multimedia";0;9;NA;"false";0;0;0;0;0
+"io.github.phora.aeondroid";"Time";3;150;7.66666666666667;"false";0;0;0;0;1
+"com.brianco.colorclock";"Theming";0;7;NA;"false";0;0;0;0;0
+"com.fastaccess.github";"Development";5;596;5.8;"false";2;0;0;0;1
+"it.feio.android.omninotes.foss";"Writing";24;170;4;"false";0;0;0;1;14
+"trikita.obsqr";"System";2;9;7;"false";0;0;0;0;1
+"com.zaren";"Multimedia";1;6;1;"false";0;0;0;0;0
+"de.westnordost.streetcomplete";"Navigation";38;134;8.68421052631579;"false";0;0;0;14;20
+"com.artifex.mupdfdemo";"Reading";0;42;NA;"false";0;0;0;0;0
+"de.christinecoenen.code.zapp";"Multimedia";9;83;1.66666666666667;"false";5;0;0;0;2
+"com.joshtwigg.cmus.droid";"Multimedia";0;18;NA;"false";0;0;0;0;0
+"tof.cv.mpp";"Navigation";0;93;NA;"false";0;0;0;0;0
+"org.n52.sosmobileclient";"Science & Education";0;10;NA;"false";0;0;0;0;0
+"ch.abertschi.adfree";"Internet";2;3;1;"false";0;0;0;0;0
+"de.saschahlusiak.freebloks";"Games";1;103;2;"false";0;0;0;0;0
+"at.linuxtage.companion";"Time";0;100;NA;"false";0;0;0;0;0
+"org.jfedor.frozenbubble";"Games";0;39;NA;"false";0;0;0;0;0
+"net.czlee.debatekeeper";"Time";0;38;NA;"false";0;0;0;0;0
+"de.audioattack.openlink";"System";1;12;11;"false";0;0;0;0;1
+"com.wentam.defcol";"Graphics";0;22;NA;"false";0;0;0;0;0
+"net.pmarks.chromadoze";"Multimedia";0;35;NA;"false";0;0;0;0;0
+"de.mangelow.throughput";"System";0;8;NA;"false";0;0;0;0;0
+"eu.wikijourney.wikijourney";"Navigation";1;17;1;"false";0;0;0;0;0
+"org.aprsdroid.app";"Connectivity";0;6;NA;"false";0;0;0;0;0
+"com.radioreddit.android";"Internet";0;23;NA;"false";0;0;0;0;0
+"eu.faircode.netguard";"Security";0;42;NA;"false";0;0;0;0;0
+"com.as.anagramsolver";"Reading";0;6;NA;"false";0;0;0;0;0
+"com.knirirr.beecount";"Writing";0;31;NA;"false";0;0;0;0;0
+"net.glsk.wpgen";"Theming";0;0;NA;"false";0;0;0;0;0
+"com.politedroid";"Time";0;11;NA;"false";0;0;0;0;0
+"com.selesca.xkcdmuzei";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"com.greenaddress.greenbits_android_wallet";"Money";80;499;13.4875;"false";0;0;0;0;53
+"it.skarafaz.mercury";"Internet";0;35;NA;"false";0;0;0;0;0
+"de.boesling.hydromemo";"Time";0;11;NA;"false";0;0;0;0;0
+"org.totschnig.myexpenses";"Money";127;459;6.67716535433071;"false";0;0;0;4;80
+"org.icasdri.mather";"Science & Education";2;10;1;"false";0;0;0;0;0
+"co.wakarimasen.ceredux";"Internet";0;48;NA;"false";0;0;0;0;0
+"com.achep.widget.jellyclock";"Theming";0;6;NA;"false";0;0;0;0;0
+"com.bytehamster.changelog";"System";1;12;5;"false";0;0;0;0;1
+"com.chessclock.android";"Games";0;5;NA;"false";0;0;0;0;0
+"com.mattgmg.miracastwidget";"System";0;4;NA;"false";0;0;0;0;0
+"com.luorrak.ouroboros";"Internet";0;50;NA;"false";0;0;0;0;0
+"de.tap.easy_xkcd";"Reading";2;47;1;"false";0;0;0;0;1
+"org.openintents.notepad";"Writing";0;37;NA;"false";0;0;0;0;0
+"io.github.hidroh.materialistic";"Internet";58;152;11.6896551724138;"false";17;0;1;0;27
+"org.logicallycreative.movingpolygons";"Theming";0;27;NA;"false";0;0;0;0;0
+"aarddict.android";"Reading";1;37;12;"false";0;0;0;0;0
+"org.sixgun.ponyexpress";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"jackpal.androidterm";"Development";3;66;1.33333333333333;"false";0;0;0;0;0
+"com.utyf.pmetro";"Navigation";1;64;1;"false";0;0;0;0;0
+"net.androgames.level";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"de.srlabs.snoopsnitch";"Security";0;0;NA;"false";0;0;0;0;0
+"org.nick.wwwjdic";"Science & Education";7;147;4.71428571428571;"false";0;0;0;0;6
+"org.hiittimer.hiittimer";"Time";0;24;NA;"false";0;0;0;0;0
+"fly.speedmeter.grub";"Navigation";0;5;NA;"false";0;0;0;0;0
+"de.nico.ha_manager";"Science & Education";0;21;NA;"false";0;0;0;0;0
+"org.beide.bomber";"Games";0;5;NA;"false";0;0;0;0;0
+"ch.citux.td";"Multimedia";0;68;NA;"false";0;0;0;0;0
+"org.supertuxkart.stk";"Games";0;5;NA;"false";0;0;0;0;0
+"menion.android.whereyougo";"Navigation";0;110;NA;"false";0;0;0;0;0
+"com.newsblur";"Reading";1;174;2;"false";0;0;0;0;1
+"com.isdp.trirose";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"org.telegram.messenger";"Internet";1;1177;1;"false";0;0;0;0;0
+"de.skubware.opentraining";"Sports & Health";5;93;2.2;"false";0;0;0;0;4
+"net.xenotropic.quizznworldcap";"Games";0;7;NA;"false";0;0;0;0;0
+"eu.veldsoft.four.row.solitaire";"Games";0;27;NA;"false";0;0;0;0;0
+"org.androidfromfrankfurt.archnews";"Reading";2;6;1;"false";0;0;0;0;0
+"aq.com.sharetobrowser";"System";2;1;1;"false";0;0;0;0;0
+"giraffine.dimmer";"System";0;26;NA;"false";0;0;0;0;0
+"com.stevenschoen.putionew";"Internet";0;28;NA;"false";0;0;0;0;0
+"org.mcxa.zephyrlogger";"Sports & Health";0;7;NA;"false";0;0;0;0;0
+"ch.blinkenlights.battery";"System";0;5;NA;"false";0;0;0;0;0
+"com.simplemobiletools.musicplayer";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"com.termux";"Development";19;31;8.89473684210526;"false";1;0;0;0;5
+"org.aykit.MyOwnNotes";"Writing";2;19;1;"false";0;0;0;0;0
+"org.fosdem";"Time";6;31;3.16666666666667;"false";0;0;0;0;2
+"de.quaddyservices.dynamicnightlight";"Time";2;6;1;"false";0;0;0;0;0
+"org.schabi.terminightor";"Time";0;0;NA;"false";0;0;0;0;0
+"org.chrisbailey.todo";"Theming";0;31;NA;"false";0;0;0;0;0
+"cz.martykan.webtube";"Multimedia";0;14;NA;"false";0;0;0;0;0
+"info.guardianproject.gpg";"Security";1;62;3;"false";0;0;0;0;0
+"net.gaast.giggity";"Time";0;25;NA;"false";0;0;0;0;0
+"github.daneren2005.dsub";"Multimedia";6;232;6;"false";1;0;0;0;3
+"com.thibaudperso.sonycamera";"Multimedia";0;29;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlytodolist";"Writing";2;46;1;"false";0;0;0;0;0
+"com.cgogolin.library";"Reading";0;10;NA;"false";0;0;0;0;0
+"org.androidsoft.coloring";"Graphics";0;14;NA;"false";0;0;0;0;0
+"org.scummvm.scummvm";"Games";0;14;NA;"false";0;0;0;0;0
+"de.drhoffmannsoft.pizza";"Money";0;5;NA;"false";0;0;0;0;0
+"org.ab.x48";"Science & Education";0;7;NA;"false";0;0;0;0;0
+"org.jsl.wfwt";"Connectivity";0;16;NA;"false";0;0;0;0;0
+"info.staticfree.SuperGenPass";"Security";3;24;7.66666666666667;"false";0;0;0;0;3
+"eu.e43.impeller";"Internet";0;97;NA;"false";0;0;0;0;0
+"io.github.baiatbun.react";"Games";1;4;1;"false";0;0;0;0;0
+"atm.nasaimages";"Science & Education";0;14;NA;"false";0;0;0;0;0
+"org.opendroidphp";"Development";0;40;NA;"false";0;0;0;0;0
+"org.nick.cryptfs.passwdmanager";"Security";0;5;NA;"false";0;0;0;0;0
+"com.litmus.worldscope";"Multimedia";4;32;9.75;"false";3;0;0;0;0
+"com.ihunda.android.binauralbeat";"Multimedia";1;71;1;"false";0;0;0;0;0
+"org.schabi.newpipe";"Multimedia";7;263;4.85714285714286;"false";1;0;0;0;4
+"com.mustafaali.sensorssandbox";"Connectivity";0;7;NA;"false";0;0;0;0;0
+"fr.mobdev.blooddonation";"Sports & Health";3;72;5;"false";0;0;0;0;3
+"net.iexos.musicalarm";"Time";0;10;NA;"false";0;0;0;0;0
+"com.taiste.lainari_en";"Reading";0;263;NA;"false";0;0;0;0;0
+"com.bvalosek.cpuspy";"System";0;3;NA;"false";0;0;0;0;0
+"com.mattermost.mattermost";"Internet";0;25;NA;"false";0;0;0;0;0
+"com.duckduckgo.mobile.android";"Internet";4;220;1.25;"false";0;0;0;0;4
+"be.quentinloos.manille";"Games";0;14;NA;"false";0;0;0;0;0
+"org.moparisthebest.appbak";"System";0;19;NA;"false";0;0;0;0;0
+"com.howeyc.spiped";"Internet";1;3;1;"false";0;0;0;0;0
+"me.tsukanov.counter";"Writing";2;24;5.5;"false";0;0;0;0;2
+"org.billthefarmer.shorty";"Multimedia";0;14;NA;"false";0;0;0;0;0
+"com.callrecorder.android";"Multimedia";0;9;NA;"false";0;0;0;0;0
+"com.alaskalinuxuser.hourglass";"Time";2;4;1;"false";0;0;0;0;0
+"de.grobox.liberario";"Navigation";9;63;3.44444444444444;"false";0;0;0;0;7
+"com.isanexusdev.androidcpg";"Multimedia";1;20;5;"false";0;0;0;0;0
+"com.example.ismael.downloadfilesweb";"Internet";1;1;1;"false";0;0;0;0;0
+"org.transdroid.lite";"Internet";1;253;4;"false";0;0;0;0;1
+"com.android.inputmethod.latin";"Writing";205;456;6.14634146341463;"false";0;0;0;1;6
+"net.mabako.steamgifts";"Internet";0;160;NA;"false";0;0;0;0;0
+"jp.sblo.pandora.aGrep";"Development";0;11;NA;"false";0;0;0;0;0
+"net.luniks.android.inetify";"Connectivity";50;47;8.58;"false";0;2;0;1;25
+"com.money.manager.ex";"Money";33;448;4.75757575757576;"false";0;0;0;0;1
+"net.daverix.urlforward";"Internet";2;24;7;"false";2;0;0;0;0
+"com.quaap.phonefonefun";"Games";0;4;NA;"false";0;0;0;0;0
+"se.pp.mc.android.Gerberoid";"Science & Education";0;11;NA;"false";0;0;0;0;0
+"com.matejdro.pebbledialer";"Connectivity";0;41;NA;"false";0;0;0;0;0
+"net.jjc1138.android.scrobbler";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"org.piwik.mobile2";"Internet";0;1;NA;"false";0;0;0;0;0
+"com.volosyukivan";"Writing";0;13;NA;"false";0;0;0;0;0
+"eu.hydrologis.geopaparazzi";"Navigation";7;369;4.14285714285714;"false";0;0;0;0;2
+"de.stefan_oltmann.kaesekaestchen";"Games";0;9;NA;"false";0;0;0;0;0
+"com.frozendevs.cache.cleaner";"System";0;10;NA;"false";0;0;0;0;0
+"net.chilon.matt.teacup";"Multimedia";0;11;NA;"false";0;0;0;0;0
+"com.gmail.altakey.effy";"Graphics";0;8;NA;"false";0;0;0;0;0
+"com.github.jtjj222.sudburytransit";"Navigation";1;24;1;"false";0;0;0;0;0
+"org.hanenoshino.onscripter";"Games";0;11;NA;"false";0;0;0;0;0
+"com.hobbyone.HashDroid";"Security";0;26;NA;"false";0;0;0;0;0
+"net.ralphbroenink.muzei.unsplash";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"com.philliphsu.clock2";"Time";6;96;3.16666666666667;"false";0;0;0;0;4
+"fr.gouv.etalab.mastodon";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.poinsart.votar";"Science & Education";0;6;NA;"false";0;0;0;0;0
+"com.jotabout.screeninfo";"Development";0;2;NA;"false";0;0;0;0;0
+"mobi.omegacentauri.SendReduced";"Graphics";0;8;NA;"false";0;0;0;0;0
+"org.holylobster.nuntius";"System";0;28;NA;"false";0;0;0;0;0
+"com.jmstudios.chibe";"Time";1;12;21;"false";0;0;0;0;1
+"max.music_cyclon";"Multimedia";1;18;1;"false";0;0;0;0;0
+"org.servalproject";"Phone & SMS";0;101;NA;"false";0;0;0;0;0
+"com.github.egonw.isotopes";"Science & Education";0;2;NA;"false";0;0;0;0;0
+"net.asceai.meritous";"Games";0;41;NA;"false";0;0;0;0;0
+"org.zephyrsoft.trackworktime";"Time";0;57;NA;"false";0;0;0;0;0
+"ch.corten.aha.worldclock";"Time";0;54;NA;"false";0;0;0;0;0
+"de.onyxbits.listmyapps";"System";0;17;NA;"false";0;0;0;0;0
+"com.veken0m.bitcoinium";"Money";0;83;NA;"false";0;0;0;0;0
+"de.baumann.weather";"Internet";0;6;NA;"false";0;0;0;0;0
+"com.powerpoint45.lucidbrowser";"Internet";0;65;NA;"false";0;0;0;0;0
+"br.com.dgimenes.nasapic";"Theming";1;31;1;"false";0;0;0;0;0
+"com.theksmith.android.car_bus_interface";"Connectivity";0;13;NA;"false";0;0;0;0;0
+"com.chrisheald.flexauth";"Security";0;10;NA;"false";0;0;0;0;0
+"it.mn.salvi.linuxDayOSM";"Navigation";0;21;NA;"false";0;0;0;0;0
+"fr.pssoftware.scoretarot";"Games";0;67;NA;"false";0;0;0;0;0
+"org.ligi.satoshiproof";"Security";0;0;NA;"false";0;0;0;0;0
+"com.kyakujin.android.tagnotepad";"Writing";0;18;NA;"false";0;0;0;0;0
+"org.billthefarmer.crossword";"Games";0;7;NA;"false";0;0;0;0;0
+"au.com.darkside.XServer";"System";1;29;2;"false";0;0;0;0;0
+"com.markuspage.android.atimetracker";"Time";1;11;4;"false";0;0;0;0;1
+"free.yhc.netmbuddy";"Multimedia";0;70;NA;"false";0;0;0;0;0
+"com.serwylo.msjviewer";"Sports & Health";0;9;NA;"false";0;0;0;0;0
+"com.nma.util.sdcardtrac";"System";0;29;NA;"false";0;0;0;0;0
+"com.isaacparker.dozesettingseditor";"System";2;6;1;"false";0;0;0;0;0
+"org.hwyl.sexytopo";"Science & Education";36;114;4;"false";0;0;0;0;29
+"com.genonbeta.TrebleShot";"Connectivity";1;168;1;"false";0;0;0;0;0
+"com.pilot51.voicenotify";"System";0;12;NA;"false";0;0;0;0;0
+"it.ecosw.dudo";"Games";0;34;NA;"false";0;0;0;0;0
+"de.yaacc";"Multimedia";7;103;21.7142857142857;"false";0;0;0;0;3
+"org.safermobile.intheclear";"Security";3;156;4;"false";0;0;0;0;0
+"fr.xgouchet.texteditor";"Writing";0;25;NA;"false";0;0;0;0;0
+"io.github.hopedia";"Reading";2;41;1;"false";0;0;0;0;0
+"com.easwareapps.quoter";"Reading";2;14;1;"false";0;0;0;0;0
+"com.icecondor.nest";"Navigation";0;42;NA;"false";0;0;0;0;0
+"me.anuraag.loveactualized";"Games";1;1;1;"false";0;0;0;0;0
+"com.dozuki.ifixit";"System";0;0;NA;"false";0;0;0;0;0
+"com.vlath.keyboard";"Writing";2;10;1;"false";0;0;0;0;0
+"com.quaap.launchtime";"System";0;44;NA;"false";0;0;0;0;0
+"tmendes.com.analyticalbalancedroid";"Money";0;3;NA;"false";0;0;0;0;0
+"gov.wa.wsdot.android.wsdot";"Navigation";4;258;1;"false";0;0;0;0;0
+"org.ligi.solar_activity_monitor";"Navigation";0;6;NA;"false";0;0;0;0;0
+"com.quaap.primary";"Science & Education";0;32;NA;"false";0;0;0;0;0
+"csci567.squeez";"System";0;6;NA;"false";0;0;0;0;0
+"net.sylvek.sharemyposition";"Navigation";0;11;NA;"false";0;0;0;0;0
+"de.chaosdorf.meteroid";"Money";0;21;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlypasswordgenerator";"Security";5;32;1.4;"false";0;0;0;0;4
+"com.lonepulse.travisjr";"Development";7;52;7.42857142857143;"false";1;1;0;0;3
+"com.pcinpact";"Internet";1;38;1;"false";0;0;0;0;1
+"de.bjusystems.vdrmanager";"Multimedia";0;152;NA;"false";0;0;0;0;0
+"paulscode.android.mupen64plusae";"Games";1;89;5;"false";0;0;0;0;0
+"org.afhdownloader";"Internet";2;15;1;"false";0;0;0;0;0
+"com.npi.muzeiflickr";"Multimedia";0;31;NA;"false";0;0;0;0;0
+"com.jparkie.givesmehope";"Internet";8;63;8.375;"false";0;0;0;0;2
+"com.ctrlplusz.dashclock.yr";"Theming";0;9;NA;"false";0;0;0;0;0
+"com.mod.android.widget.fbcw";"System";0;9;NA;"false";0;0;0;0;0
+"com.wordpress.chislonchow.legacylauncher";"Theming";0;98;NA;"false";0;0;0;0;0
+"protect.card_locker";"Money";7;30;9;"false";3;0;0;0;1
+"com.androidemu.gba";"Games";0;11;NA;"false";0;0;0;0;0
+"com.kanedias.vanilla.audiotag";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"org.cipherdyne.fwknop2";"Internet";0;15;NA;"false";0;0;0;0;0
+"de.live.gdev.timetracker";"Internet";0;15;NA;"false";0;0;0;0;0
+"net.bitconomy.ckpoolwatcher";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.endeepak.dotsnsquares";"Games";2;45;2;"false";1;0;0;0;1
+"org.dpadgett.timer";"System";0;23;NA;"false";0;0;0;0;0
+"net.momodalo.app.vimtouch";"Development";0;90;NA;"false";0;0;0;0;0
+"de.hoffmannsgimmickstaupunkt";"Science & Education";0;6;NA;"false";0;0;0;0;0
+"org.epstudios.morbidmeter";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"com.dwak.lastcall";"Phone & SMS";0;3;NA;"false";0;0;0;0;0
+"com.asksven.betterbatterystats";"System";12;157;3.75;"false";0;0;0;0;8
+"douzifly.list";"Time";14;50;6.57142857142857;"false";0;0;0;3;5
+"de.onyxbits.photobookmark";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"ru.neverdark.silentnight";"System";0;17;NA;"false";0;0;0;0;0
+"fi.mikuz.boarder";"Multimedia";0;78;NA;"false";0;0;0;0;0
+"com.workingagenda.democracydroid";"Multimedia";2;29;1;"false";0;0;0;0;0
+"pro.oneredpixel.l9droid";"Games";0;23;NA;"false";0;0;0;0;0
+"com.robert.maps";"Navigation";1;143;1;"false";0;0;0;0;0
+"io.github.fvasco.pinpoi";"Navigation";0;2;NA;"false";0;0;0;0;0
+"raele.concurseiro";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"com.scar45.aokp.co.webviewer";"Internet";0;2;NA;"false";0;0;0;0;0
+"io.github.mthli.Ninja";"Internet";0;59;NA;"false";0;0;0;0;0
+"eu.siacs.conversations";"Internet";0;348;NA;"false";0;0;0;0;0
+"org.cry.otp";"Security";0;9;NA;"false";0;0;0;0;0
+"com.tomatodev.timerdroid";"Time";2;34;1;"false";0;0;0;0;0
+"github.yaa110.memento";"Writing";0;35;NA;"false";0;0;0;0;0
+"org.tamanegi.wallpaper.multipicture.dnt";"Theming";0;31;NA;"false";0;0;0;0;0
+"com.ultramegatech.ey";"Science & Education";0;25;NA;"false";0;0;0;0;0
+"teamunguided.brighttime";"System";2;7;1;"false";0;0;0;0;0
+"de.srlabs.gsmmap";"Science & Education";2;26;10;"false";0;0;0;0;0
+"com.github.wakhub.tinyclock";"Time";1;5;1;"false";0;0;0;0;0
+"com.infonuascape.osrshelper";"Games";0;117;NA;"false";0;0;0;0;0
+"gq.nulldev.animeopenings.app";"Multimedia";1;28;1;"false";0;0;0;0;0
+"it.niedermann.owncloud.notes";"Writing";4;48;2.5;"false";0;0;0;0;2
+"com.secuso.torchlight2";"System";0;9;NA;"false";0;0;0;0;0
+"si.modrajagoda.didi";"Writing";0;14;NA;"false";0;0;0;0;0
+"de.reimardoeffinger.quickdic";"Reading";0;27;NA;"false";0;0;0;0;0
+"com.nononsenseapps.notepad";"Writing";12;151;7.75;"false";0;0;0;0;1
+"com.chanapps.four.activity";"Internet";0;531;NA;"false";0;0;0;0;0
+"ro.ciubex.dscautorename";"Multimedia";0;50;NA;"false";0;0;0;0;0
+"com.wabadaba.dziennik";"Science & Education";0;1;NA;"false";0;0;0;0;0
+"org.michaelevans.nightmodeenabler";"Theming";0;2;NA;"false";0;0;0;0;0
+"is.xyz.mpv";"Multimedia";0;10;NA;"false";0;0;0;0;0
+"poly.darkdepths.strongbox";"Multimedia";0;20;NA;"false";0;0;0;0;0
+"com.android.music";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"peanutencryption.peanutencryption";"Security";0;11;NA;"false";0;0;0;0;0
+"org.herrlado.geofonts";"System";0;5;NA;"false";0;0;0;0;0
+"eu.mrogalski.saidit";"Multimedia";0;59;NA;"false";0;0;0;0;0
+"org.disrupted.rumble";"Connectivity";2;239;1.5;"false";0;0;0;0;1
+"org.xcsoar";"Navigation";0;0;NA;"false";0;0;0;0;0
+"org.ligi.ajsha";"Development";2;21;7.5;"false";1;0;0;0;0
+"org.gringene.concentricclock";"Science & Education";1;3;1;"false";0;0;0;0;0
+"org.openintents.filemanager";"System";10;68;9.6;"false";2;0;0;0;0
+"org.github.OxygenGuide";"Navigation";0;3;NA;"false";0;0;0;0;0
+"com.dimtion.shaarlier";"Internet";1;18;1;"false";0;0;0;0;0
+"de.k3b.android.androFotoFinder";"Multimedia";38;187;8.6578947368421;"false";0;0;0;0;4
+"org.androidsoft.opendata.remarkabletrees";"Navigation";0;14;NA;"false";0;0;0;0;0
+"org.geometerplus.zlibrary.ui.android";"Reading";41;758;18.7317073170732;"false";0;0;0;0;5
+"net.codechunk.speedofsound";"Multimedia";0;2;NA;"false";0;0;0;0;0
+"com.github.yeriomin.workoutlog";"Sports & Health";0;14;NA;"false";0;0;0;0;0
+"me.hda.urlhda";"Internet";2;5;1;"false";0;0;0;0;0
+"de.j4velin.wifiAutoOff";"Connectivity";0;33;NA;"false";0;0;0;0;0
+"com.hayaisoftware.launcher";"System";0;19;NA;"false";0;0;0;0;0
+"org.marcus905.wifi.ace";"Connectivity";0;3;NA;"false";0;0;0;0;0
+"org.mosspaper";"Theming";1;100;2;"false";0;0;0;0;0
+"com.tananaev.logcat";"System";0;13;NA;"false";0;0;0;0;0
+"eu.siacs.conversations.voicerecorder";"Internet";0;1;NA;"false";0;0;0;0;0
+"tk.jordynsmediagroup.simpleirc.fdroid";"Internet";0;139;NA;"false";0;0;0;0;0
+"org.gittner.osmbugs";"Development";0;59;NA;"false";0;0;0;0;0
+"org.mrpdaemon.android.encdroid";"System";0;36;NA;"false";0;0;0;0;0
+"com.tortel.syslog";"System";0;52;NA;"false";0;0;0;0;0
+"com.palliser.nztides";"Navigation";0;4;NA;"false";0;0;0;0;0
+"me.kuehle.carreport";"Navigation";7;169;3.71428571428571;"false";0;0;0;1;4
+"br.usp.ime.retrobreaker";"Games";0;13;NA;"false";0;0;0;0;0
+"souch.smp";"Multimedia";4;20;11;"false";0;0;0;0;3
+"app.easytoken";"Security";0;27;NA;"false";0;0;0;0;0
+"eu.devunit.fb_client";"Internet";2;32;4;"false";0;0;0;0;0
+"com.tomer.poke.notifier";"Games";2;25;1;"false";0;0;0;0;0
+"io.github.droidapps.pdfreader";"Reading";1;65;2;"false";0;0;0;0;0
+"com.Pau.ImapNotes2";"Internet";0;22;NA;"false";0;0;0;0;0
+"ca.rmen.android.scrumchatter";"Time";0;63;NA;"false";0;0;0;0;0
+"com.kennyc.open.imgur";"Internet";0;124;NA;"false";0;0;0;0;0
+"itkach.aard2";"Reading";0;31;NA;"false";0;0;0;0;0
+"de.pinyto.exalteddicer";"Games";1;21;1;"false";0;0;0;0;0
+"ch.logixisland.anuto";"Games";1;146;1;"false";0;0;0;0;0
+"org.sudowars";"Games";1;125;4;"false";0;0;0;0;1
+"com.ginkel.hashit";"Security";0;19;NA;"false";0;0;0;0;0
+"net.khertan.forrunners";"Sports & Health";0;39;NA;"false";0;0;0;0;0
+"it.sineo.android.noFrillsCPUClassic";"Development";0;14;NA;"false";0;0;0;0;0
+"com.fusionx.lightirc";"Internet";0;96;NA;"false";0;0;0;0;0
+"org.bottiger.podcast";"Multimedia";15;417;4;"false";2;0;0;1;2
+"org.tvbrowser.tvbrowser";"Multimedia";0;124;NA;"false";0;0;0;0;0
+"com.yubico.yubitotp";"Connectivity";0;5;NA;"false";0;0;0;0;0
+"de.hfu.funfpunktnull";"Science & Education";0;21;NA;"false";0;0;0;0;0
+"saschpe.contactevents";"System";0;27;NA;"false";0;0;0;0;0
+"com.liveplayergames.finneypoker";"Money";154;480;9.66233766233766;"false";0;0;0;0;74
+"com.lostrealm.lembretes";"Science & Education";2;15;0;"false";0;0;0;0;0
+"org.ogre.browser";"Games";0;4;NA;"false";0;0;0;0;0
+"org.balau.fakedawn";"Science & Education";2;14;4;"false";0;0;0;0;2
+"com.tassadar.multirommgr";"Development";0;73;NA;"false";0;0;0;0;0
+"yellr.net.yellr_android";"Internet";1;67;1;"false";0;0;0;0;0
+"name.seguri.android.lock";"System";0;4;NA;"false";0;0;0;0;0
+"de.tobiasbielefeld.solitaire";"Games";0;112;NA;"false";0;0;0;0;0
+"com.serwylo.lexica";"Games";0;0;NA;"false";0;0;0;0;0
+"com.agateau.catgenerator";"Multimedia";2;9;1;"false";0;0;0;0;0
+"fr.nicopico.dashclock.birthday";"Time";0;6;NA;"false";0;0;0;0;0
+"com.namsor.api.samples.gendre";"System";0;22;NA;"false";0;0;0;0;0
+"tv.piratemedia.lightcontroler";"Multimedia";1;52;1;"false";0;0;0;0;0
+"com.acvarium.tasclock";"Time";0;15;NA;"false";0;0;0;0;0
+"edu.killerud.kitchentimer";"Time";0;15;NA;"false";0;0;0;0;0
+"org.ntpsync";"System";0;108;NA;"false";0;0;0;0;0
+"free.rm.netcfgwidget";"Internet";2;6;1;"false";0;0;0;0;0
+"com.linuxcounter.lico_update_003";"Internet";0;9;NA;"false";0;0;0;0;0
+"de.tobiasbielefeld.brickgames";"Games";0;40;NA;"false";0;0;0;0;0
+"org.smerty.zooborns";"Multimedia";0;13;NA;"false";0;0;0;0;0
+"com.android.browser";"Internet";11;143;10.1818181818182;"false";0;0;0;0;0
+"org.sipdroid.sipua";"Phone & SMS";2;253;4;"false";0;0;0;0;0
+"hr.kravarscan.enchantedfortress";"Games";0;16;NA;"false";0;0;0;0;0
+"be.ppareit.swiftp_free";"Connectivity";1;67;1;"false";0;0;0;0;0
+"org.schabi.etherwake";"System";0;0;NA;"false";0;0;0;0;0
+"com.termux.tasker";"Development";2;9;1;"false";0;0;0;0;0
+"com.nononsenseapps.feeder";"Internet";1;17;13;"false";0;0;0;0;0
+"se.johanhil.clipboard";"System";0;2;NA;"false";0;0;0;0;0
+"org.walleth";"Money";0;3;NA;"false";0;0;0;0;0
+"be.brunoparmentier.wifikeyshare";"Connectivity";2;21;2;"false";0;0;0;0;2
+"de.nico.asura";"Development";0;10;NA;"false";0;0;0;0;0
+"org.kobuge.ninjatraining";"Games";0;1;NA;"false";0;0;0;0;0
+"at.tomtasche.reader";"Reading";2;48;5.5;"false";0;0;0;0;0
+"dev.ukanth.ufirewall";"Security";0;124;NA;"false";0;0;0;0;0
+"com.readystatesoftware.ghostlog";"Development";0;22;NA;"false";0;0;0;0;0
+"org.ttrssreader";"Internet";0;107;NA;"false";0;0;0;0;0
+"org.moparisthebest.pageplus";"Money";0;9;NA;"false";0;0;0;0;0
+"SpeedoMeterApp.main";"Navigation";0;4;NA;"false";0;0;0;0;0
+"org.strawberryforum.pollywog";"System";2;4;1;"false";0;0;0;0;0
+"info.kesavan.malartoon";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"com.zeapo.pwdstore";"Internet";2;9;5.5;"false";0;0;0;0;1
+"wb.receiptspro";"Money";111;600;8.02702702702703;"false";1;4;0;7;77
+"io.github.otakuchiyan.dnsman";"Connectivity";0;0;NA;"false";0;0;0;0;0
+"com.piratebayfree";"Internet";0;25;NA;"false";0;0;0;0;0
+"com.github.yeriomin.smsscheduler";"Phone & SMS";0;40;NA;"false";0;0;0;0;0
+"net.syntaxblitz.plucklock";"Security";0;7;NA;"false";0;0;0;0;0
+"org.sparkleshare.android";"Internet";0;27;NA;"false";0;0;0;0;0
+"li.klass.fhem";"Internet";102;135;2.49019607843137;"false";0;0;0;0;15
+"com.rj.pixelesque";"Graphics";0;36;NA;"false";0;0;0;0;0
+"com.einmalfel.podlisten";"Multimedia";0;55;NA;"false";0;0;0;0;0
+"org.pulpdust.lesserpad";"Writing";0;61;NA;"false";0;0;0;0;0
+"org.lumicall.android";"Phone & SMS";0;138;NA;"false";0;0;0;0;0
+"org.ligi.materialteatimer";"Time";0;1;NA;"false";0;0;0;0;0
+"com.max2idea.android.fwknop";"Internet";0;6;NA;"false";0;0;0;0;0
+"org.musicbrainz.picard.barcodescanner";"Multimedia";0;15;NA;"false";0;0;0;0;0
+"com.u17od.upm";"Security";0;38;NA;"false";0;0;0;0;0
+"es.cesar.quitesleep";"Phone & SMS";2;322;2.5;"false";0;0;0;0;1
+"no.rkkc.bysykkel";"Navigation";0;0;NA;"false";0;0;0;0;0
+"com.zegoggles.gist";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.coste.syncorg";"Writing";1;79;3;"false";0;0;0;0;1
+"org.freshrss.easyrss";"Internet";76;234;6.60526315789474;"false";0;0;0;0;17
+"makeinfo.com.getid";"System";1;2;1;"false";0;0;0;0;0
+"net.majorkernelpanic.spydroid";"Multimedia";0;55;NA;"false";0;0;0;0;0
+"com.notriddle.budget";"Money";0;44;NA;"false";0;0;0;0;0
+"ohi.andre.consolelauncher";"System";0;144;NA;"false";0;0;0;0;0
+"org.kost.externalip";"Internet";0;4;NA;"false";0;0;0;0;0
+"com.forum.fiend.osp";"Internet";0;64;NA;"false";0;0;0;0;0
+"com.zagayevskiy.pacman";"Games";0;5;NA;"false";0;0;0;0;0
+"com.javierllorente.adc";"Reading";2;10;1;"false";0;0;0;0;0
+"byrne.utilities.converter";"Science & Education";0;6;NA;"false";0;0;0;0;0
+"com.gabm.screenrotationcontrol";"System";0;14;NA;"false";0;0;0;0;0
+"de.jurihock.voicesmith";"Multimedia";4;73;4.5;"false";0;0;0;0;2
+"link.standen.michael.phonesaver";"System";0;1;NA;"false";0;0;0;0;0
+"com.marceljurtz.lifecounter";"Games";2;35;1;"false";0;0;0;0;0
+"com.mariogrip.octoprint";"Multimedia";1;24;1;"false";0;0;0;0;0
+"org.aminb.mathtools.app";"Science & Education";0;21;NA;"false";0;0;0;0;0
+"com.quaap.computationaldemonology";"Games";0;25;NA;"false";0;0;0;0;0
+"com.vrem.wifianalyzer";"Connectivity";126;149;7.38095238095238;"false";3;0;9;0;103
+"de.bashtian.dashclocksunrise";"Theming";0;4;NA;"false";0;0;0;0;0
+"org.ppsspp.ppsspp";"Games";0;24;NA;"false";0;0;0;0;0
+"org.equeim.tremotesf";"Internet";0;18;NA;"false";0;0;0;0;0
+"simple.reboot.com";"System";0;1;NA;"false";0;0;0;0;0
+"org.diygenomics.pg";"Science & Education";0;21;NA;"false";0;0;0;0;0
+"se.norenh.rkfread";"Navigation";0;7;NA;"false";0;0;0;0;0
+"de.j4velin.pedometer";"Sports & Health";0;25;NA;"false";0;0;0;0;0
+"org.jfedor.nxtremotecontrol";"Science & Education";0;11;NA;"false";0;0;0;0;0
+"com.axelby.podax";"Multimedia";0;83;NA;"false";0;0;0;0;0
+"ru.meefik.busybox";"System";0;10;NA;"false";0;0;0;0;0
+"com.gpl.rpg.AndorsTrail";"Games";0;199;NA;"false";0;0;0;0;0
+"de.cryptobitch.muelli.barcodegen";"Graphics";2;2;1;"false";0;0;0;0;0
+"org.floens.chan";"Internet";1;298;4;"false";0;0;0;0;1
+"com.integralblue.callerid";"Security";0;0;NA;"false";0;0;0;0;0
+"net.sourceforge.opencamera";"Multimedia";10;60;55.2;"false";1;0;0;0;0
+"mazechazer.android.wottankquiz";"Games";0;5;NA;"false";0;0;0;0;0
+"com.fr3ts0n.stagefever";"Multimedia";0;9;NA;"false";0;0;0;0;0
+"mbmb5.lumixextendedcontrolapp";"Multimedia";0;13;NA;"false";0;0;0;0;0
+"au.id.micolous.farebot";"Navigation";3;4;4.66666666666667;"false";0;0;0;0;0
+"de.phoenixstudios.pc_dimmer";"Multimedia";2;21;1;"false";0;0;0;0;0
+"italian.said.fran.theitaliansaid";"Reading";2;6;1;"false";0;0;0;0;0
+"com.samsung.srpol";"Science & Education";0;21;NA;"false";0;0;0;0;0
+"fr.hnit.riverferry";"Navigation";2;9;1;"false";0;0;0;0;0
+"com.apkupdater";"System";2;82;2;"false";0;0;0;0;2
+"org.iilab.pb";"Phone & SMS";31;76;6.09677419354839;"false";5;0;1;0;16
+"com.androidemu.gbc";"Games";0;13;NA;"false";0;0;0;0;0
+"com.workingagenda.fissure";"Multimedia";2;12;1;"false";0;0;0;0;0
+"com.corner23.android.beautyclocklivewallpaper";"Theming";0;13;NA;"false";0;0;0;0;0
+"github.yaa110.piclice";"Multimedia";0;12;NA;"false";0;0;0;0;0
+"org.liberty.android.fantastischmemo";"Science & Education";38;190;5.5;"false";0;0;0;0;23
+"com.twsitedapps.homemanager";"System";0;15;NA;"false";0;0;0;0;0
+"free.rm.skytube.oss";"Multimedia";2;170;1;"false";0;0;0;0;0
+"fr.neamar.kiss";"Theming";5;122;5;"false";1;0;0;0;3
+"org.hekmatof.chesswatch";"Games";0;6;NA;"false";0;0;0;0;0
+"de.qspool.clementineremote";"Multimedia";0;105;NA;"false";0;0;0;0;0
+"com.pixiv.muzei.pixivsource";"Multimedia";0;7;NA;"false";0;0;0;0;0
+"com.monead.games.android.sequence";"Games";0;12;NA;"false";0;0;0;0;0
+"org.y20k.trackbook";"Navigation";0;22;NA;"false";0;0;0;0;0
+"net.usikkert.kouchat.android";"Connectivity";130;154;13.6384615384615;"false";0;0;0;0;84
+"se.traffar.dot_race";"Games";0;3;NA;"false";0;0;0;0;0
+"com.dje.openwifinetworkremover";"Connectivity";0;11;NA;"false";0;0;0;0;0
+"jpf.android.magiadni";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"vik.linx.stormify";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"org.tint.adblock";"Internet";0;5;NA;"false";0;0;0;0;0
+"org.smc.inputmethod.indic";"Writing";0;0;NA;"false";0;0;0;0;0
+"com.mobilepearls.memory";"Games";0;7;NA;"false";0;0;0;0;0
+"at.bitfire.icsdroid";"Time";0;2;NA;"false";0;0;0;0;0
+"net.sourceforge.solitaire_cg";"Games";0;25;NA;"false";0;0;0;0;0
+"com.alaskalinuxuser.shipcaptainandcrew";"Games";2;3;1;"false";0;0;0;0;0
+"org.anothermonitor";"System";1;9;1;"false";0;0;0;0;0
+"com.github.darthjoey91.hangman";"Games";1;2;1;"false";0;0;0;0;0
+"com.easwareapps.g2l";"Theming";0;37;NA;"false";0;0;0;0;0
+"com.twofours.surespot";"Security";1;180;1;"false";0;0;0;0;0
+"ar.rulosoft.mimanganu";"Reading";9;149;13.3333333333333;"false";0;0;0;0;3
+"org.androidsoft.app.permission";"System";0;22;NA;"false";0;0;0;0;0
+"com.pierreduchemin.punchlinebingo";"Games";6;16;3.5;"false";0;0;0;0;0
+"org.sufficientlysecure.ical";"Time";0;14;NA;"false";0;0;0;0;0
+"edu.sfsu.cs.orange.ocr";"Graphics";0;28;NA;"false";0;0;0;0;0
+"com.cyanogenmod.filemanager.ics";"System";31;249;4.61290322580645;"false";0;0;0;0;46
+"com.llamacorp.equate";"Science & Education";5;45;13;"false";0;0;0;0;0
+"bughunter2.smsfilter";"Phone & SMS";0;0;NA;"false";0;0;0;0;0
+"akk.astro.droid.moonphase";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"eu.faircode.finegeotag";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"trikita.talalarmo";"Time";0;15;NA;"false";0;0;0;0;0
+"com.easwareapps.marbleone_ad_free";"Games";0;10;NA;"false";0;0;0;0;0
+"net.micode.compass";"Navigation";0;2;NA;"false";0;0;0;0;0
+"com.btmura.android.reddit";"Internet";24;212;6.20833333333333;"false";0;0;0;3;11
+"org.tint";"Internet";0;97;NA;"false";0;0;0;0;0
+"com.cr5315.cfdc";"Theming";1;11;1;"false";0;0;0;0;0
+"com.dougkeen.bart";"Navigation";0;49;NA;"false";0;0;0;0;0
+"com.mridang.throttle";"System";0;12;NA;"false";0;0;0;0;0
+"com.igormaznitsa.piratedice";"Games";1;5;1;"false";0;0;0;0;0
+"de.baumann.pdfcreator";"Writing";0;30;NA;"false";0;0;0;0;0
+"com.tmendes.dadosd";"Development";0;4;NA;"false";0;0;0;0;0
+"de.digisocken.anotherrss";"Internet";0;19;NA;"false";0;0;0;0;0
+"de.xskat";"Games";0;1;NA;"false";0;0;0;0;0
+"org.mozilla.mozstumbler";"Navigation";30;247;3.86666666666667;"false";3;0;2;0;22
+"stericson.busybox";"System";0;48;NA;"false";0;0;0;0;0
+"com.sevag.pitcha";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.eneko.hexcolortimewallpaper";"Theming";0;6;NA;"false";0;0;0;0;0
+"com.mridang.wifiinfo";"Theming";0;4;NA;"false";0;0;0;0;0
+"sonoroxadc.garethmurfin.co.uk";"Multimedia";0;12;NA;"false";0;0;0;0;0
+"de.fgerbig.spacepeng";"Games";0;107;NA;"false";0;0;0;0;0
+"uk.co.jarofgreen.JustADamnCompass";"Navigation";0;3;NA;"false";0;0;0;0;0
+"com.github.grimpy.botifier";"Connectivity";0;26;NA;"false";0;0;0;0;0
+"edu.cmu.cs.speech.tts.flite";"Multimedia";0;13;NA;"false";0;0;0;0;0
+"org.gringene.colourclock";"Science & Education";1;3;1;"false";0;0;0;0;0
+"cat.pantsu.nyaapantsu";"Multimedia";2;1;1;"false";0;0;0;0;0
+"pk.contender.earmouse";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.rubenwardy.minetestmodmanager";"Games";4;24;2.75;"false";0;0;0;0;2
+"org.quovadit.apps.andof";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"net.androidcomics.acv";"Reading";1;139;1;"false";0;0;0;0;0
+"org.valos.isolmoa";"Games";0;2;NA;"false";0;0;0;0;0
+"net.programmierecke.radiodroid2";"Multimedia";0;112;NA;"false";0;0;0;0;0
+"org.kiwix.kiwixmobile";"Reading";2;61;2;"false";0;0;0;1;1
+"es.usc.citius.servando.calendula";"Time";11;211;4.81818181818182;"false";1;0;0;0;0
+"ryey.flock";"System";2;7;1;"false";0;0;0;0;0
+"org.martus.android";"System";266;1624;9.95488721804511;"false";0;0;0;0;190
+"im.zom.messenger";"Internet";0;243;NA;"false";0;0;0;0;0
+"fr.seeks";"Internet";0;5;NA;"false";0;0;0;0;0
+"eu.veldsoft.politrics";"Games";0;15;NA;"false";0;0;0;0;0
+"me.guillaumin.android.osmtracker";"Navigation";0;63;NA;"false";0;0;0;0;0
+"de.hu_berlin.informatik.spws2014.mapever";"Navigation";0;115;NA;"false";0;0;0;0;0
+"net.imatruck.betterweather";"Theming";0;36;NA;"false";0;0;0;0;0
+"com.gabm.fancyplaces";"Navigation";0;37;NA;"false";0;0;0;0;0
+"com.bleyl.recurrence";"Time";1;34;1;"false";0;0;0;0;0
+"com.willianveiga.countdowntimer";"Time";0;8;NA;"false";0;0;0;0;0
+"com.aokp.backup";"System";0;26;NA;"false";0;0;0;0;0
+"org.numixproject.iconsubmit";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"com.intervigil.micdroid";"Multimedia";0;30;NA;"false";0;0;0;0;0
+"net.somethingdreadful.MAL";"Reading";0;111;NA;"false";0;0;0;0;0
+"com.termux.widget";"System";0;5;NA;"false";0;0;0;0;0
+"com.hasi.hasid00r";"Security";0;12;NA;"false";0;0;0;0;0
+"at.huber.sampleDownload";"Internet";2;9;5;"false";0;0;0;0;0
+"gr.ratmole.android.Mach3Pendant";"Connectivity";0;32;NA;"false";0;0;0;0;0
+"com.drismo";"Science & Education";2;61;5;"false";0;0;0;0;1
+"click.dummer.UartSmartwatch";"Connectivity";0;7;NA;"false";0;0;0;0;0
+"com.primokorn.enhancement";"Theming";0;6;NA;"false";0;0;0;0;0
+"com.tjm.crushr";"Writing";0;8;NA;"false";0;0;0;0;0
+"net.logomancy.dashquotes.civ5";"Theming";0;4;NA;"false";0;0;0;0;0
+"hu.vsza.adsdroid";"Reading";0;5;NA;"false";0;0;0;0;0
+"org.addhen.smssync";"Phone & SMS";14;289;2.85714285714286;"false";0;0;0;0;9
+"com.michaldabski.filemanager";"System";0;32;NA;"false";0;0;0;0;0
+"org.mysociety.FixMyStreet";"Navigation";0;1;NA;"false";0;0;0;0;0
+"com.cybrosys.palmcalc";"Science & Education";1;153;1;"false";0;0;0;0;1
+"com.docd.purefm";"System";13;101;4.92307692307692;"false";1;0;0;0;9
+"br.odb.knights";"Games";0;33;NA;"false";0;0;0;0;0
+"im.r_c.android.clearweather";"Internet";2;22;1;"false";0;0;0;0;0
+"nz.gen.geek_central.ObjViewer";"Science & Education";0;12;NA;"false";0;0;0;0;0
+"com.iven.lfflfeedreader";"Reading";0;19;NA;"false";0;0;0;0;0
+"net.fabiszewski.ulogger";"Navigation";0;28;NA;"false";0;0;0;0;0
+"com.github.cythara";"Multimedia";5;142;3.6;"false";0;0;0;0;4
+"com.mohammadag.beamfile";"Connectivity";0;5;NA;"false";0;0;0;0;0
+"org.schabi.openhitboxstreams";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.github.quarck.calnotify";"System";0;2;NA;"false";0;0;0;0;0
+"com.tortuca.holoken";"Games";0;15;NA;"false";0;0;0;0;0
+"org.edunivers.whereami";"Navigation";0;3;NA;"false";0;0;0;0;0
+"ru.glesik.wifireminders";"Connectivity";0;0;NA;"false";0;0;0;0;0
+"org.coolreader";"Reading";0;118;NA;"false";0;0;0;0;0
+"com.pilockerstable";"Theming";3;55;1.66666666666667;"false";0;0;0;0;1
+"com.cradle.iitc_mobile";"Games";0;39;NA;"false";0;0;0;0;0
+"click.dummer.textthing";"Development";0;9;NA;"false";0;0;0;0;0
+"com.leocardz.url.unshortener";"Internet";0;11;NA;"false";0;0;0;0;0
+"com.xlythe.minecraftclock";"Theming";0;12;NA;"false";0;0;0;0;0
+"com.concentricsky.android.khan";"Science & Education";0;56;NA;"false";0;0;0;0;0
+"com.cajor.dk.dlna";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"com.simplemobiletools.gallery";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"net.anzix.osm.upload";"Navigation";2;24;1.5;"false";0;0;0;0;1
+"de.k3b.android.toGoZip";"System";4;42;9.25;"false";0;0;0;0;0
+"com.kanedias.vanilla.coverfetch";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"org.paulmach.textedit";"Writing";0;14;NA;"false";0;0;0;0;0
+"be.brunoparmentier.dnssetter";"Connectivity";1;12;1;"false";0;0;0;0;1
+"com.arnaud.metronome";"Multimedia";0;17;NA;"false";0;0;0;0;0
+"com.aselalee.trainschedule";"Navigation";0;14;NA;"false";0;0;0;0;0
+"com.radiostudent.radiostudentstream";"Multimedia";0;11;NA;"false";0;0;0;0;0
+"fr.syncarnet";"Writing";1;22;8;"false";0;0;0;0;1
+"de.duenndns.gmdice";"Games";0;9;NA;"false";0;0;0;0;0
+"com.matoski.adbm";"Development";0;32;NA;"false";0;0;0;0;0
+"com.jonbanjo.cupsprintservice";"Connectivity";1;105;4;"false";0;0;0;0;0
+"de.kromke.andreas.unpopmusicplayerfree";"Multimedia";0;459;NA;"false";0;0;0;0;0
+"de.jkliemann.parkendd";"Navigation";1;19;1;"false";0;0;0;0;0
+"com.nbossard.packlist";"Writing";18;38;5.61111111111111;"false";0;0;3;0;10
+"net.bluetoothviewer";"Development";1;23;3;"false";0;0;0;0;1
+"ru.zxalexis.ugaday";"Games";0;4;NA;"false";0;0;0;0;0
+"com.jecelyin.editor";"Development";1;86;1;"false";0;0;0;0;0
+"org.bobstuff.bobball";"Games";0;34;NA;"false";0;0;0;0;0
+"com.nolanlawson.apptracker";"System";1;26;11;"false";0;0;0;0;0
+"net.altcoinfaucet.app";"Internet";0;10;NA;"false";0;0;0;0;0
+"com.unwrappedapps.android.wallpaper.creative";"Theming";0;19;NA;"false";0;0;0;0;0
+"com.lukekorth.screennotifications";"System";0;28;NA;"false";0;0;0;0;0
+"de.ph1b.audiobook";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"eu.polarclock";"Time";2;3;1;"false";0;0;0;0;0
+"fr.asterope";"Navigation";0;5;NA;"false";0;0;0;0;0
+"com.simplemobiletools.calendar";"System";0;1;NA;"false";0;0;0;0;0
+"com.nexes.manager";"System";0;12;NA;"false";0;0;0;0;0
+"de.stephanlindauer.criticalmaps";"Internet";5;61;2.8;"false";0;0;0;0;4
+"com.unwind.networkmonitor";"System";1;6;1;"false";0;0;0;0;0
+"ru.meefik.tzupdater";"System";1;12;1;"false";0;0;0;0;0
+"de.devisnik.android.sliding";"Theming";6;59;5.33333333333333;"false";0;0;0;0;5
+"mobi.cyann.nstools";"Development";0;30;NA;"false";0;0;0;0;0
+"net.micode.fileexplorer";"System";0;79;NA;"false";0;0;0;0;0
+"au.com.wallaceit.reddinator";"Internet";0;62;NA;"false";0;0;0;0;0
+"org.zephyrsoft.checknetwork";"Internet";0;7;NA;"false";0;0;0;0;0
+"info.guardianproject.lildebi";"Development";0;21;NA;"false";0;0;0;0;0
+"com.javiersantos.whatsappbetaupdater";"Internet";1;21;6;"false";0;0;0;0;1
+"com.alaskalinuxuser.justcraigslist";"Internet";2;9;1;"false";0;0;0;0;0
+"org.kost.nmap.android.networkmapper";"Internet";1;9;1;"false";0;0;0;0;0
+"com.showmehills";"Navigation";2;39;1;"false";0;0;0;0;0
+"com.notecryptpro";"Writing";1;25;3;"false";0;0;0;0;1
+"com.peppercarrot.runninggame";"Games";0;69;NA;"false";0;0;0;0;0
+"hsware.HSTempo";"Science & Education";0;3;NA;"false";0;0;0;0;0
+"com.threedlite.urforms";"Development";0;26;NA;"false";0;0;0;0;0
+"com.cityfreqs.littlesirecho";"Phone & SMS";0;4;NA;"false";0;0;0;0;0
+"marto.rtl_tcp_andro";"Development";1;33;14;"false";0;0;0;0;1
+"fr.xtof54.mousetodon";"Internet";0;23;NA;"false";0;0;0;0;0
+"io.davidar.tensor";"Internet";0;1;NA;"false";0;0;0;0;0
+"com.banasiak.coinflipext.example";"Games";0;0;NA;"false";0;0;0;0;0
+"com.chmod0.manpages";"Reading";0;7;NA;"false";0;0;0;0;0
+"com.guvery.notifyme";"Writing";1;10;1;"false";0;0;0;0;0
+"com.chdev.ks.minx";"Internet";1;23;1;"false";0;0;0;0;0
+"com.templaro.opsiz.aka";"Multimedia";0;14;NA;"false";0;0;0;0;0
+"nu.firetech.android.wifiwarning";"Connectivity";0;4;NA;"false";0;0;0;0;0
+"com.repay.android";"Money";0;37;NA;"false";0;0;0;0;0
+"io.github.powerinside.scrollsocket";"Connectivity";0;7;NA;"false";0;0;0;0;0
+"org.okfn.pod";"Multimedia";0;10;NA;"false";0;0;0;0;0
+"com.angrydoughnuts.android.alarmclock";"Time";0;18;NA;"false";0;0;0;0;0
+"com.nltechno.dolidroidpro";"Internet";0;23;NA;"false";0;0;0;0;0
+"com.frozendevs.periodictable";"Science & Education";0;30;NA;"false";0;0;0;0;0
+"goo.TeaTimer";"Time";0;9;NA;"false";0;0;0;0;0
+"com.color.colornamer";"System";0;16;NA;"false";0;0;0;0;0
+"org.gateshipone.malp";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"net.tedstein.AndroSS";"Graphics";0;10;NA;"false";0;0;0;0;0
+"com.morphoss.acal";"Time";0;0;NA;"false";0;0;0;0;0
+"it.rignanese.leo.slimfacebook";"Internet";2;11;1;"false";0;0;0;0;0
+"com.github.dfa.diaspora_android";"Internet";0;70;NA;"false";0;0;0;0;0
+"org.domogik.domodroid13";"System";7;109;6.57142857142857;"false";0;0;0;0;7
+"org.janb.shoppinglist";"Writing";0;24;NA;"false";0;0;0;0;0
+"org.androidappdev.batterywidget";"Theming";0;3;NA;"false";0;0;0;0;0
+"com.onetwofivegames.kungfoobarracuda";"Games";0;6;NA;"false";0;0;0;0;0
+"org.opengappsdownloader";"Internet";0;15;NA;"false";0;0;0;0;0
+"com.bonelazy.profileswitcher";"System";0;16;NA;"false";0;0;0;0;0
+"us.lindanrandy.cidrcalculator";"Science & Education";2;11;3.5;"false";0;0;0;0;1
+"home.jmstudios.calc";"Science & Education";0;6;NA;"false";0;0;0;0;0
+"jp.redmine.redmineclient";"Internet";2;252;2.5;"false";0;0;0;0;2
+"io.github.tjg1.nori";"Multimedia";15;53;4.66666666666667;"false";0;0;0;2;6
+"im.actor.cloud.free";"Internet";0;4;NA;"false";0;0;0;0;0
+"fr.kwiatkowski.ApkTrack";"System";1;48;1;"false";0;0;0;0;0
+"com.blippex.app";"Internet";1;100;1;"false";0;0;0;0;1
+"com.brillenheini.deepscratch.free";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"com.teleca.jamendo";"Multimedia";0;116;NA;"false";0;0;0;0;0
+"damo.three.ie";"Internet";0;54;NA;"false";0;0;0;0;0
+"com.briankhuu.nfcmessageboard";"Connectivity";2;7;6.5;"false";0;0;0;0;0
+"com.androsz.electricsleepbeta";"Science & Education";0;80;NA;"false";0;0;0;0;0
+"uobikiemukot.yaft";"Development";0;0;NA;"false";0;0;0;0;0
+"com.platypus.SAnd";"Navigation";1;5;1;"false";0;0;0;0;0
+"org.opentech";"Internet";0;112;NA;"false";0;0;0;0;0
+"com.rogerbassonsrenart.paddletennis";"Games";1;10;1;"false";0;0;0;0;0
+"org.csploit.android";"Development";1;173;2;"false";0;0;0;0;1
+"com.tmarki.comicmaker";"Graphics";0;16;NA;"false";0;0;0;0;0
+"com.olam";"Reading";0;4;NA;"false";0;0;0;0;0
+"org.voidsink.anewjkuapp";"Science & Education";1;142;1;"false";0;0;0;0;0
+"com.anysoftkeyboard.languagepack.georgian.fdroid";"Writing";0;3;NA;"false";0;0;0;0;0
+"com.brapeba.roaminginfo";"Phone & SMS";0;9;NA;"false";0;0;0;0;0
+"cz.martykan.forecastie";"Internet";1;29;1;"false";0;0;0;0;0
+"com.fsck.k9";"Internet";126;488;14.1111111111111;"false";1;0;0;4;109
+"com.zoffcc.applications.zanavi";"Navigation";0;164;NA;"false";0;0;0;0;0
+"org.openintents.safe";"Security";2;62;13;"false";0;0;0;0;1
+"com.cebesius.wifiautoforget";"Connectivity";4;34;6.75;"false";0;0;0;0;4
+"com.nutomic.syncthingandroid";"Internet";0;74;NA;"false";0;0;0;0;0
+"com.shatteredpixel.shatteredpixeldungeon";"Games";0;947;NA;"false";0;0;0;0;0
+"es.esy.CosyDVR";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"moe.feng.nhentai";"Multimedia";0;20;NA;"false";0;0;0;0;0
+"ut.ewh.audiometrytest";"Sports & Health";5;9;6.6;"false";0;0;0;0;0
+"com.catchingnow.tinyclipboardmanager";"System";1;23;1;"false";0;0;0;0;0
+"ir.hsn6.defendo";"Games";0;1;NA;"false";0;0;0;0;0
+"com.germainz.identiconizer";"System";0;22;NA;"false";0;0;0;0;0
+"uk.co.danieljarvis.android.flashback";"Phone & SMS";0;4;NA;"false";0;0;0;0;0
+"im.r_c.android.jigsaw";"Games";2;16;1;"false";0;0;0;0;0
+"ca.cmetcalfe.locationshare";"Connectivity";0;3;NA;"false";0;0;0;0;0
+"com.gmail.jerickson314.sdscanner";"System";0;6;NA;"false";0;0;0;0;0
+"org.ligi.ipfsdroid";"System";1;3;11;"false";0;0;0;0;0
+"fr.pssoftware.monescarcelle";"Money";1;46;3;"false";0;0;0;1;0
+"com.kodis";"Development";0;15;NA;"false";0;0;0;0;0
+"kmac.dejavu_fonts";"Theming";0;0;NA;"false";0;0;0;0;0
+"net.yxejamir.misbotheringsms";"Phone & SMS";0;5;NA;"false";0;0;0;0;0
+"com.gacode.relaunchx";"System";0;29;NA;"false";0;0;0;0;0
+"com.jadn.cc";"Multimedia";14;66;5.14285714285714;"false";0;0;0;0;2
+"com.nagopy.android.disablemanager2";"System";6;26;6.66666666666667;"false";1;0;0;0;1
+"net.cyclestreets";"Navigation";8;151;5.875;"false";0;0;0;0;1
+"org.scoutant.rpn";"Science & Education";1;2;6;"false";0;0;0;0;0
+"sk.halmi.fbeditplus";"Games";0;18;NA;"false";0;0;0;0;0
+"kaljurand_at_gmail_dot_com.diktofon";"Multimedia";0;39;NA;"false";0;0;0;0;0
+"free.yhc.feeder";"Reading";0;53;NA;"false";0;0;0;0;0
+"net.mafro.android.wakeonlan";"Connectivity";0;12;NA;"false";0;0;0;0;0
+"com.haringeymobile.ukweather";"Time";10;74;6.2;"false";0;0;0;1;1
+"org.madore.android.unicodeMap";"Development";0;6;NA;"false";0;0;0;0;0
+"eu.flatworld.android.slider";"Multimedia";0;18;NA;"false";0;0;0;0;0
+"com.casimirlab.simpleDeadlines";"Time";0;19;NA;"false";0;0;0;0;0
+"de.sudoq";"Games";68;143;5.57352941176471;"false";0;0;0;0;3
+"nl.asymmetrics.droidshows";"Multimedia";1;21;50;"false";0;0;0;1;0
+"com.gulshansingh.hackerlivewallpaper";"Theming";1;15;1;"false";0;0;0;0;0
+"com.quran.labs.androidquran";"Reading";13;160;5.84615384615385;"false";1;0;0;0;10
+"net.bytten.xkcdviewer";"Reading";0;17;NA;"false";0;0;0;0;0
+"de.baumann.quitsmoking";"Sports & Health";0;15;NA;"false";0;0;0;0;0
+"ca.mudar.fairphone.peaceofmind";"Phone & SMS";0;1;NA;"false";0;0;0;0;0
+"net.pejici.summation";"Science & Education";0;12;NA;"false";0;0;0;0;0
+"info.guardianproject.orfox";"Internet";2;2;1;"false";0;0;0;0;0
+"com.example.tobiastrumm.freifunkautoconnect";"System";1;28;1;"false";0;0;0;0;0
+"com.nutomic.ensichat";"Phone & SMS";0;1;NA;"false";0;0;0;0;0
+"com.evancharlton.mileage";"Science & Education";61;904;4.24590163934426;"false";1;0;0;2;66
+"com.vuze.android.remote";"Internet";0;178;NA;"false";0;0;0;0;0
+"com.syncedsynapse.kore2";"Multimedia";24;214;12.0833333333333;"false";0;0;0;0;6
+"net.justdave.nwsweatheralertswidget";"Theming";0;19;NA;"false";0;0;0;0;0
+"org.developfreedom.wordpowermadeeasy";"Reading";1;11;1;"false";0;0;0;0;1
+"com.nephoapp.anarxiv";"Internet";0;12;NA;"false";0;0;0;0;0
+"de.lsubel.amam";"Games";8;91;5.625;"false";1;0;0;0;2
+"subreddit.android.appstore";"System";11;100;2.36363636363636;"false";0;0;0;0;9
+"me.ccrama.redditslide";"Reading";6;346;7.66666666666667;"false";0;0;0;0;4
+"com.wordpress.sarfraznawaz.callerdetails";"Phone & SMS";0;10;NA;"false";0;0;0;0;0
+"com.osmnavigator";"Navigation";0;63;NA;"false";0;0;0;0;0
+"com.f0x.eddymalou";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"jupiter.broadcasting.live.tv";"Multimedia";0;6;NA;"false";0;0;0;0;0
+"io.github.sanbeg.flashlight";"System";0;5;NA;"false";0;0;0;0;0
+"de.markusfisch.android.shadereditor";"Development";0;67;NA;"false";0;0;0;0;0
+"com.ath0.rpn";"Science & Education";3;5;3.33333333333333;"false";0;0;0;0;2
+"org.projectvoodoo.screentestpatterns";"Development";0;8;NA;"false";0;0;0;0;0
+"com.pjuu.otterdroid";"Internet";0;2;NA;"false";0;0;0;0;0
+"de.ktran.anno1404warenrechner";"Games";3;48;1.66666666666667;"false";0;0;0;0;1
+"com.gladis.tictactoe";"Games";0;2;NA;"false";0;0;0;0;0
+"com.lucasdnd.unixtimeclockwidget";"Time";0;4;NA;"false";0;0;0;0;0
+"nu.firetech.android.pactrack";"Internet";0;22;NA;"false";0;0;0;0;0
+"me.echeung.cdflabs";"Science & Education";0;33;NA;"false";0;0;0;0;0
+"org.epstudios.epmobile";"Sports & Health";0;0;NA;"false";0;0;0;0;0
+"de.mangelow.network";"System";0;3;NA;"false";0;0;0;0;0
+"de.hirtenstrasse.michael.lnkshortener";"Internet";2;19;1;"false";0;0;0;0;0
+"com.samsandberg.mtafarebuster";"Navigation";2;2;1;"false";0;0;0;0;0
+"io.trezor.app";"Money";0;81;NA;"false";0;0;0;0;0
+"com.rubenroy.minimaltodo";"Writing";3;19;4;"false";0;0;0;0;1
+"org.cmotc.tools.rotationlockpp";"System";0;5;NA;"false";0;0;0;0;0
+"eu.kanade.tachiyomi";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"com.mantz_it.rfanalyzer";"Science & Education";2;29;8;"false";0;0;0;0;0
+"ca.cmetcalfe.xposed.disablebatterywarnings";"System";0;1;NA;"false";0;0;0;0;0
+"io.githubfede0d.planetrider";"Games";0;1;NA;"false";0;0;0;0;0
+"org.sufficientlysecure.standalonecalendar";"Time";9;99;16;"false";0;0;0;0;5
+"ca.ddaly.android.heart";"Sports & Health";0;18;NA;"false";0;0;0;0;0
+"de.szalkowski.activitylauncher";"System";0;15;NA;"false";0;0;0;0;0
+"de.k3b.android.locationMapViewer";"Navigation";2;28;2;"false";0;0;0;0;0
+"grmpl.mk.stepandheightcounter";"Sports & Health";2;8;1;"false";0;0;0;0;0
+"uk.co.bitethebullet.android.token";"System";5;19;5.4;"false";0;0;0;0;0
+"org.ligi.fast";"System";1;45;15;"false";0;0;0;0;0
+"de.ub0r.android.websms";"Phone & SMS";0;28;NA;"false";0;0;0;0;0
+"com.xmission.trevin.android.todo";"Writing";0;46;NA;"false";0;0;0;0;0
+"com.github.nicolassmith.urlevaluator";"Internet";0;9;NA;"false";0;0;0;0;0
+"com.google.android.stardroid";"Navigation";33;187;4.57575757575758;"false";0;0;0;0;18
+"com.quaap.dodatheexploda";"Games";0;7;NA;"false";0;0;0;0;0
+"com.doomy.torch";"System";1;10;1;"false";0;0;0;0;0
+"fr.tvbarthel.attempt.googlyzooapp";"Games";0;38;NA;"false";0;0;0;0;0
+"net.loeuillet.wifi_eap_sim_conf";"Connectivity";1;2;1;"false";0;0;0;0;0
+"wiseguys.radar";"Time";0;22;NA;"false";0;0;0;0;0
+"tw.qtlin.mac.airunlocker";"System";0;10;NA;"false";0;0;0;0;0
+"ro.weednet.contactssync";"System";1;32;4;"false";0;0;0;0;0
+"info.guardianproject.notepadbot";"Writing";0;12;NA;"false";0;0;0;0;0
+"org.eehouse.android.xw4";"Games";0;0;NA;"false";0;0;0;0;0
+"net.haltcondition.anode";"Internet";1;15;10;"false";0;0;0;0;1
+"de.delusions.measure";"Sports & Health";0;35;NA;"false";0;0;0;0;0
+"de.blau.android";"Navigation";44;416;6.52272727272727;"false";0;0;0;2;17
+"me.alexghr.bulkshare.android.app2";"Internet";1;13;1;"false";0;0;0;0;0
+"com.drodin.zxdroid";"Games";0;14;NA;"false";0;0;0;0;0
+"com.studio332.flickit";"Games";0;25;NA;"false";0;0;0;0;0
+"org.droidupnp";"Multimedia";0;76;NA;"false";0;0;0;0;0
+"org.horaapps.leafpic";"Multimedia";0;134;NA;"false";0;0;0;0;0
+"micropolis.android";"Games";0;44;NA;"false";0;0;0;0;0
+"vu.de.urpool.quickdroid";"System";0;34;NA;"false";0;0;0;0;0
+"com.bd.gitlab";"Development";0;45;NA;"false";0;0;0;0;0
+"com.hyperionics.fbreader.plugin.tts_plus";"Reading";0;28;NA;"false";0;0;0;0;0
+"sk.madzik.android.logcatudp";"Connectivity";0;5;NA;"false";0;0;0;0;0
+"com.f.coin";"Money";0;11;NA;"false";0;0;0;0;0
+"com.luk.timetable2";"Science & Education";1;51;1;"false";0;0;0;0;0
+"org.secuso.privacyfriendlypin";"System";1;13;1;"false";0;0;0;0;0
+"de.onyxbits.pocketbandit";"Games";0;21;NA;"false";0;0;0;0;0
+"net.commotionwireless.meshtether";"System";0;13;NA;"false";0;0;0;0;0
+"com.xargsgrep.portknocker";"Security";1;42;1;"false";0;0;0;0;1
+"com.wmstein.tourcount";"Science & Education";0;56;NA;"false";0;0;0;0;0
+"com.tobykurien.batteryfu";"System";0;34;NA;"false";0;0;0;0;0
+"com.metinkale.prayer";"Reading";0;181;NA;"false";0;0;0;0;0
+"com.teamdc.stephendiniz.autoaway";"Phone & SMS";0;15;NA;"false";0;0;0;0;0
+"ca.pr0ps.xposed.entrustunblocker";"System";0;1;NA;"false";0;0;0;0;0
+"com.adam.aslfms";"Multimedia";9;72;8.55555555555556;"false";0;0;0;1;5
+"org.cyanogenmod.oneclick";"System";0;21;NA;"false";0;0;0;0;0
+"com.holokenmod";"Games";0;23;NA;"false";0;0;0;0;0
+"eu.veldsoft.colors.overflow";"Games";0;22;NA;"false";0;0;0;0;0
+"be.brunoparmentier.openbikesharing.app";"Navigation";0;23;NA;"false";0;0;0;0;0
+"com.opendoorstudios.ds4droid";"Games";0;20;NA;"false";0;0;0;0;0
+"starcom.snd";"Connectivity";0;16;NA;"false";0;0;0;0;0
+"ch.hsr.eyecam";"Multimedia";2;25;5;"false";1;0;0;0;1
+"fr.miximum.napply";"Theming";2;7;2;"false";0;0;0;0;2
+"de.locked.cellmapper";"Navigation";1;110;4;"false";0;0;0;0;0
+"ch.rmy.android.statusbar_tacho";"Navigation";0;0;NA;"false";0;0;0;0;0
+"protect.rentalcalc";"Money";17;25;9;"false";10;0;0;0;1
+"net.progval.android.andquote";"Reading";0;8;NA;"false";0;0;0;0;0
+"org.asdtm.fas";"Internet";2;62;1;"false";0;0;0;0;0
+"org.transdroid.search";"Internet";3;92;11.6666666666667;"false";0;0;0;0;2
+"com.simplemobiletools.applauncher";"System";0;1;NA;"false";0;0;0;0;0
+"org.thecongers.mtpms";"Science & Education";0;5;NA;"false";0;0;0;0;0
+"net.opendasharchive.openarchive.release";"Multimedia";0;58;NA;"false";0;0;0;0;0
+"com.majeur.applicationsinfo";"System";1;17;1;"false";0;0;0;0;0
+"com.rehanced.lunary";"Money";0;79;NA;"false";0;0;0;0;0
+"pl.hypeapp.endoscope";"Multimedia";0;84;NA;"false";0;0;0;0;0
+"et.nWifiManager";"Connectivity";0;19;NA;"false";0;0;0;0;0
+"com.greenaddress.abcore";"Money";1;17;6;"false";0;0;0;0;0
+"info.aario.killcamera";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"org.billthefarmer.editor";"Writing";0;5;NA;"false";0;0;0;0;0
+"com.cleveroad.sample";"Multimedia";0;22;NA;"false";0;0;0;0;0
+"com.appspot.usbhidterminal";"Connectivity";2;20;3;"false";0;0;0;0;1
+"fr.ubordeaux.math.paridroid";"Science & Education";0;7;NA;"false";0;0;0;0;0
+"com.todobom.opennotescanner";"Science & Education";2;23;1;"false";0;0;0;0;0
+"com.byagowi.persiancalendar";"Time";2;39;4.5;"false";0;0;0;0;0
+"tf.nox.wifisetup";"Security";0;1;NA;"false";0;0;0;0;0
+"me.dbarnett.acastus";"Navigation";2;8;1;"false";0;0;0;0;0
+"openfoodfacts.github.scrachx.openfood";"Sports & Health";45;221;4.26666666666667;"false";0;0;0;0;31
+"com.slothwerks.hearthstone.compendiumforhearthstone";"Games";1;49;1;"false";0;0;0;0;0
+"cat.mvmike.minimalcalendarwidget";"Theming";9;17;4.44444444444444;"false";0;0;0;0;6
+"com.andrewshu.android.reddit";"Internet";1;57;6;"false";0;0;0;0;0
+"us.achromaticmetaphor.imcktg";"Phone & SMS";0;15;NA;"false";0;0;0;0;0
+"de.mangelow.slideitloud";"System";0;7;NA;"false";0;0;0;0;0
+"byrne.utilities.hashpass";"Security";0;5;NA;"false";0;0;0;0;0
+"com.oakley.fon";"Internet";0;28;NA;"false";0;0;0;0;0
+"co.loubo.icicle";"Internet";4;131;3;"false";0;0;0;0;0
+"org.schabi.svgredirect";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"tomer.com.alwaysonamoledplugin";"System";2;4;1;"false";0;0;0;0;0
+"android.androidVNC";"System";0;85;NA;"false";0;0;0;0;0
+"de.smasi.tickmate";"Time";4;43;5.5;"false";1;0;0;0;0
+"nerd.tuxmobil.fahrplan.congress";"Time";0;55;NA;"false";0;0;0;0;0
+"biz.codefuture.svgviewer";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"org.smblott.intentradio";"Internet";0;24;NA;"false";0;0;0;0;0
+"jp.yhonda";"Science & Education";0;8;NA;"false";0;0;0;0;0
+"org.kde.kdeconnect_tp";"System";4;134;3.75;"false";0;0;0;0;4
+"io.tiph.smsspammer";"Phone & SMS";0;2;NA;"false";0;0;0;0;0
+"felixwiemuth.lincal";"Multimedia";0;31;NA;"false";0;0;0;0;0
+"com.murrayc.galaxyzoo.app";"Science & Education";19;52;4.63157894736842;"false";5;0;0;0;6
+"com.github.mofosyne.instantreadme";"Development";1;3;1;"false";0;0;0;0;0
+"jp.gr.java_conf.hatalab.mnv";"Writing";0;27;NA;"false";0;0;0;0;0
+"com.threedlite.userhash.location";"Navigation";0;14;NA;"false";0;0;0;0;0
+"org.daylightingsociety.wherearetheeyes";"Security";2;16;1;"false";0;0;0;0;0
+"uk.org.crimetalk";"Reading";0;35;NA;"false";0;0;0;0;0
+"com.github.yeriomin.dumbphoneassistant";"Phone & SMS";0;11;NA;"false";0;0;0;0;0
+"com.platypus.dicer";"Games";1;5;1;"false";0;0;0;0;0
+"com.sigseg.android.worldmap";"Science & Education";2;10;1;"false";0;0;0;0;0
+"de.cweiske.headphoneindicator";"System";0;5;NA;"false";0;0;0;0;0
+"com.blogspot.marioboehmer.nfcprofile";"Connectivity";0;19;NA;"false";0;0;0;0;0
+"com.midisheetmusic";"Multimedia";0;41;NA;"false";0;0;0;0;0
+"org.akvo.rsr.up";"Internet";0;69;NA;"false";0;0;0;0;0
+"jp.sawada.np2android";"Games";0;8;NA;"false";0;0;0;0;0
+"org.de.jmg.learn";"Science & Education";1;55;1;"false";0;0;0;0;0
+"org.briarproject.briar.beta";"Connectivity";193;1072;10.5958549222798;"false";4;0;1;0;104
+"com.github.mobile";"Development";27;159;4.96296296296296;"false";3;0;0;0;16
+"org.microg.nlp.backend.nominatim";"Navigation";0;2;NA;"false";0;0;0;0;0
+"de.zieren.rot13";"Development";0;1;NA;"false";0;0;0;0;0
+"org.sufficientlysecure.localcalendar";"Time";0;11;NA;"false";0;0;0;0;0
+"org.anhonesteffort.flock";"System";16;159;8.125;"false";0;0;0;0;14
+"com.ssaurel.clocklw";"Theming";0;7;NA;"false";0;0;0;0;0
+"cgeo.geocaching";"Navigation";133;630;6.51127819548872;"false";3;0;0;1;87
+"com.androidemu.nes";"Games";0;15;NA;"false";0;0;0;0;0
+"com.tasomaniac.dashclock.hackerspace.floss";"Time";0;23;NA;"false";0;0;0;0;0
+"org.appsroid.fxpro";"Graphics";0;20;NA;"false";0;0;0;0;0
+"at.univie.sensorium";"Science & Education";0;48;NA;"false";0;0;0;0;0
+"com.github.cetoolbox";"Science & Education";0;11;NA;"false";0;0;0;0;0
+"cat.jordihernandez.cinecat";"Multimedia";0;29;NA;"false";0;0;0;0;0
+"fr.tvbarthel.apps.simpleweatherforcast";"Time";2;37;3.5;"false";0;0;0;0;1
+"com.orgzly";"Writing";36;80;11.6666666666667;"false";1;0;0;0;8
+"com.quaap.fishberserker";"Games";0;12;NA;"false";0;0;0;0;0
+"com.orpheusdroid.screenrecorder";"System";2;30;1;"false";0;0;0;0;0
+"de.naturalnet.mirwtfapp";"Science & Education";0;0;NA;"false";0;0;0;0;0
+"jpf.android.diary";"Writing";0;3;NA;"false";0;0;0;0;0
+"csh.cryptonite";"System";2;26;6;"false";0;0;0;0;3
+"org.kaziprst.android.ndfilter";"Multimedia";1;4;1;"false";0;0;0;0;0
+"com.simplemobiletools.draw";"Graphics";0;1;NA;"false";0;0;0;0;0
+"de.freewarepoint.whohasmystuff";"Money";0;0;NA;"false";0;0;0;0;0
+"org.amoradi.syncopoli";"Connectivity";2;25;7;"false";0;0;0;0;1
+"ca.cumulonimbus.barometernetwork";"System";0;0;NA;"false";0;0;0;0;0
+"be.ppareit.shutdown";"Theming";0;4;NA;"false";0;0;0;0;0
+"protect.babysleepsounds";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"se.johanhil.duckduckgo";"Internet";0;4;NA;"false";0;0;0;0;0
+"ro.ieval.fonbot";"System";0;29;NA;"false";0;0;0;0;0
+"org.sufficientlysecure.keychain";"Security";58;520;7.24137931034483;"false";1;0;0;0;31
+"com.abcdjdj.rootverifier";"System";0;7;NA;"false";0;0;0;0;0
+"name.starnberger.guenther.android.cbw";"Navigation";0;8;NA;"false";0;0;0;0;0
+"click.dummer.rickapp";"Games";0;4;NA;"false";0;0;0;0;0
+"me.jamesfrost.simpledo";"Writing";4;25;1.75;"false";0;0;0;1;3
+"com.aaronjwood.portauthority";"Security";0;37;NA;"false";0;0;0;0;0
+"org.pacien.tincapp";"Connectivity";0;1;NA;"false";0;0;0;0;0
+"com.fsck.k9.material";"Internet";92;477;13.8369565217391;"false";1;0;0;3;78
+"org.shortcuts";"System";0;4;NA;"false";0;0;0;0;0
+"com.jmstudios.redmoon";"System";0;1;NA;"false";0;0;0;0;0
+"cz.eutopia.snooperstopper";"Security";1;7;1;"false";0;0;0;0;0
+"net.damsy.soupeaucaillou.heriswap";"Games";0;0;NA;"false";0;0;0;0;0
+"org.dsandler.apps.markers";"Graphics";0;15;NA;"false";0;0;0;0;0
+"us.shandian.blacklight";"Internet";0;185;NA;"false";0;0;0;0;0
+"ca.mimic.apphangar";"System";0;35;NA;"false";0;0;0;0;0
+"com.msapps.touchdetector";"System";2;4;1;"false";0;0;0;0;0
+"de.ub0r.android.websms.connector.gmx";"Phone & SMS";0;2;NA;"false";0;0;0;0;0
+"de.onyxbits.textfiction";"Games";0;53;NA;"false";0;0;0;0;0
+"com.sagar.screenshift2";"System";1;37;1;"false";0;0;0;0;1
+"com.boombuler.games.shift";"Games";0;18;NA;"false";0;0;0;0;0
+"org.ligi.gobandroid_hd";"Games";1;34;1;"false";0;0;0;0;0
+"com.sandeel.bushidoblocks";"Games";0;25;NA;"false";0;0;0;0;0
+"org.grapentin.apps.exceer";"Sports & Health";3;22;4.33333333333333;"false";0;0;0;0;2
+"us.shandian.giga";"Internet";0;25;NA;"false";0;0;0;0;0
+"org.sufficientlysecure.viewer";"Reading";5;375;13.6;"false";0;0;0;1;2
+"com.netthreads.android.noiz2";"Games";0;72;NA;"false";0;0;0;0;0
+"com.darshancomputing.BatteryIndicator";"System";0;17;NA;"false";0;0;0;0;0
+"science.itaintrocket.pomfshare";"Internet";0;6;NA;"false";0;0;0;0;0
+"jp.softstudio.DriversLicenseReader";"Reading";0;137;NA;"false";0;0;0;0;0
+"org.yuttadhammo.BodhiTimer";"Time";0;17;NA;"false";0;0;0;0;0
+"An.stop";"Time";0;9;NA;"false";0;0;0;0;0
+"souch.smsbypass";"Phone & SMS";0;20;NA;"false";0;0;0;0;0
+"eu.veldsoft.ithaka.board.game";"Games";0;16;NA;"false";0;0;0;0;0
+"com.gh4a";"Development";1;222;68;"false";0;0;0;0;1
+"com.tomer.alwayson";"System";0;61;NA;"false";0;0;0;0;0
+"com.makeinfo.sudokugenerator";"Games";1;2;1;"false";0;0;0;0;0
+"community.peers.internetradio";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"com.moonpi.tapunlock";"System";0;7;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlyactivitytracker";"Sports & Health";1;58;1;"false";0;0;0;0;0
+"org.sickstache";"Multimedia";0;97;NA;"false";0;0;0;0;0
+"eu.veldsoft.hungarian.rings";"Games";0;9;NA;"false";0;0;0;0;0
+"com.elementarytoday.theia";"Theming";0;1;NA;"false";0;0;0;0;0
+"com.vackosar.searchbasedlauncher";"Theming";3;30;3.66666666666667;"false";0;0;0;0;3
+"net.artificialworlds.rabbitescape";"Games";86;276;10.5116279069767;"false";0;0;0;0;71
+"com.simplemobiletools.notes";"System";0;1;NA;"false";0;0;0;0;0
+"de.mangelow.debdroid";"System";0;17;NA;"false";0;0;0;0;0
+"daniel_32.flexiblewallpaper";"Theming";1;3;1;"false";0;0;0;0;0
+"com.ciarang.tallyphant";"Writing";0;5;NA;"false";0;0;0;0;0
+"com.mrbimc.selinux";"Security";0;1;NA;"false";0;0;0;0;0
+"com.simplemobiletools.camera";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"com.boombuler.widgets.contacts";"Theming";0;31;NA;"false";0;0;0;0;0
+"de.bitsharesmunich.wallet";"Money";1;361;7;"false";0;0;0;0;0
+"com.kure.musicplayer";"Multimedia";0;30;NA;"false";0;0;0;0;0
+"com.miz.mizuu";"Multimedia";4;205;34.5;"false";0;0;0;0;0
+"universe.constellation.orion.viewer";"Reading";1;133;1;"false";1;0;0;0;0
+"com.wikaba.ogapp";"Games";2;94;4;"false";0;0;0;0;0
+"com.annimon.minizipandroid";"System";0;7;NA;"false";0;0;0;0;0
+"com.alexkang.x3matrixcalculator";"Science & Education";0;14;NA;"false";0;0;0;0;0
+"com.dev.cromer.jason.cshelper";"Science & Education";1;16;1;"false";0;0;0;0;0
+"com.htruong.inputmethod.latin";"Writing";19;230;24.6842105263158;"false";0;0;0;0;1
+"de.geeksfactory.opacclient";"Reading";31;154;5.45161290322581;"false";0;0;0;0;11
+"de.audioattack.yacy31c3search";"Internet";1;17;1;"false";0;0;0;0;0
+"com.linkomnia.android.Changjie";"Writing";0;13;NA;"false";0;0;0;0;0
+"com.borneq.heregpslocation";"Navigation";0;2;NA;"false";0;0;0;0;0
+"de.meonwax.soundboard";"Multimedia";0;17;NA;"false";0;0;0;0;0
+"org.hoi_polloi.android.ringcode";"System";0;13;NA;"false";0;0;0;0;0
+"de.robv.android.xposed.installer";"System";0;53;NA;"false";0;0;0;0;0
+"aws.apps.usbDeviceEnumerator";"System";1;45;13;"false";0;0;0;0;1
+"com.twobuntu.twobuntu";"Reading";0;14;NA;"false";0;0;0;0;0
+"nitezh.ministock";"Money";10;54;3.3;"false";0;0;0;0;0
+"fr.mobdev.goblim";"Internet";1;17;1;"false";0;0;0;0;0
+"com.omegavesko.holocounter";"Time";0;8;NA;"false";0;0;0;0;0
+"com.android.quake";"Games";0;4;NA;"false";0;0;0;0;0
+"com.umang.dashnotifier";"Theming";0;45;NA;"false";0;0;0;0;0
+"com.lucasdnd.bitclock16";"Time";0;4;NA;"false";0;0;0;0;0
+"net.alaindonesia.silectric";"Money";3;16;4.66666666666667;"false";1;0;0;0;0
+"am.zoom.mbrowser";"Internet";0;1;NA;"false";0;0;0;0;0
+"com.github.ruleant.getback_gps";"Navigation";11;30;12.5454545454545;"false";0;0;0;0;11
+"com.shurik.droidzebra";"Games";1;6;4;"false";0;0;0;0;1
+"org.yaxim.androidclient";"Internet";0;71;NA;"false";0;0;0;0;0
+"eu.veldsoft.vitoshadm";"Games";0;7;NA;"false";0;0;0;0;0
+"com.uraroji.garage.android.mp3recvoice";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"com.androguide.universal.init.d";"Development";0;11;NA;"false";0;0;0;0;0
+"info.papdt.blackblub";"System";3;33;1;"false";0;0;0;0;0
+"com.idunnololz.igo";"Games";1;13;1;"false";0;0;0;0;0
+"com.prhlt.aemus.Read4SpeechExperiments";"Science & Education";0;4;NA;"false";0;0;0;0;0
+"com.naholyr.android.horairessncf";"Navigation";0;30;NA;"false";0;0;0;0;0
+"com.unleashyouradventure.swaccess";"Reading";1;31;2;"false";0;0;0;0;1
+"fr.masciulli.drinks";"Reading";1;16;5;"false";0;0;0;0;0
+"me.murks.filmchecker";"Multimedia";0;39;NA;"false";0;0;0;0;0
+"ch.fixme.cowsay";"Development";0;3;NA;"false";0;0;0;0;0
+"pro.dbro.openspritz";"Reading";1;41;3;"false";0;0;0;0;1
+"com.akop.bach";"Games";1;156;8;"false";0;0;0;0;0
+"errorc2146.whereaminext";"Time";2;8;1;"false";0;0;0;0;0
+"org.andstatus.app";"Internet";92;396;5.89130434782609;"false";7;0;0;5;45
+"com.thefonz.ed_tool";"Games";1;24;1;"false";0;0;0;0;0
+"org.surrel.facebooknotifications";"Internet";2;5;1;"false";0;0;0;0;0
+"com.yassirh.digitalocean";"Internet";0;85;NA;"false";0;0;0;0;0
+"ar.com.tristeslostrestigres.diasporanativewebapp";"Internet";0;11;NA;"false";0;0;0;0;0
+"de.dotwee.micropinner";"Theming";6;17;6.16666666666667;"false";0;0;0;1;1
+"kr.hybdms.sidepanel";"Theming";1;115;4;"false";0;0;0;0;0
+"com.kvance.Nectroid";"Multimedia";0;39;NA;"false";0;0;0;0;0
+"io.mapsquare.osmcontributor";"Navigation";10;414;6.8;"false";0;0;0;0;7
+"com.digitalfishfun.openshift";"System";0;4;NA;"false";0;0;0;0;0
+"app.openconnect";"Internet";0;80;NA;"false";0;0;0;0;0
+"org.billthefarmer.scope";"Multimedia";0;15;NA;"false";0;0;0;0;0
+"de.mangelow.balance";"System";0;6;NA;"false";0;0;0;0;0
+"com.wolas.awesomewallpaper";"Theming";2;14;1;"false";0;0;0;0;0
+"to.networld.android.divedroid";"Sports & Health";0;25;NA;"false";0;0;0;0;0
+"org.ninthfloor.copperpdf";"Reading";0;1;NA;"false";0;0;0;0;0
+"com.github.notizklotz.derbunddownloader";"Reading";3;31;3.33333333333333;"false";1;0;0;0;1
+"com.vlath.beheexplorer";"Internet";1;22;1;"false";0;0;0;0;0
+"com.alexkang.bluechat";"Connectivity";1;6;1;"false";0;0;0;0;0
+"com.tjm.stripepaper";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"com.kibab.android.EncPassChanger";"Security";0;9;NA;"false";0;0;0;0;0
+"com.rascarlo.aurdroid";"Development";2;27;1;"false";0;0;0;0;0
+"com.artifex.mupdf.mini";"Reading";0;6;NA;"false";0;0;0;0;0
+"naman14.timber";"Multimedia";1;163;1;"false";0;0;0;0;0
+"com.zoffcc.applications.trifa";"Internet";0;105;NA;"false";0;0;0;0;0
+"com.gokhanmoral.stweaks.app";"Development";0;13;NA;"false";0;0;0;0;0
+"us.feras.mdv.demo";"Reading";0;8;NA;"false";0;0;0;0;0
+"com.dozingcatsoftware.asciicam";"Multimedia";0;22;NA;"false";0;0;0;0;0
+"net.exclaimindustries.geohashdroid";"Navigation";0;52;NA;"false";0;0;0;0;0
+"de.onyxbits.sensorreadout";"Development";0;57;NA;"false";0;0;0;0;0
+"chromiumupdater.bamless.com.chromiumsweupdater";"Internet";0;12;NA;"false";0;0;0;0;0
+"com.enrico.earthquake";"Theming";0;4;NA;"false";0;0;0;0;0
+"aws.apps.androidDrawables";"Development";0;17;NA;"false";0;0;0;0;0
+"za.co.neilson.alarm";"Time";0;0;NA;"false";0;0;0;0;0
+"com.github.nutomic.controldlna";"Multimedia";0;19;NA;"false";0;0;0;0;0
+"com.doplgangr.secrecy";"Security";1;88;0;"false";0;0;0;0;0
+"telegra.ph";"Internet";0;0;NA;"false";0;0;0;0;0
+"de.ub0r.android.callmeter";"System";0;52;NA;"false";0;0;0;0;0
+"koeln.mop.elpeefpe";"Games";2;15;1;"false";0;0;0;0;0
+"com.tinfoil.sms";"Phone & SMS";0;74;NA;"false";0;0;0;0;0
+"com.purplefoto.pfdock";"Navigation";0;7;NA;"false";0;0;0;0;0
+"de.ub0r.android.smsdroid";"Phone & SMS";0;30;NA;"false";0;0;0;0;0
+"org.gitorious.jamesjrh.isokeys";"Multimedia";0;0;NA;"false";0;0;0;0;0
+"ca.rmen.android.poetassistant";"Writing";34;7;6.29411764705882;"false";0;0;0;0;0
+"com.smerty.ham";"Science & Education";0;18;NA;"false";0;0;0;0;0
+"com.hexad.bluezime";"Games";1;24;11;"false";0;0;0;0;0
+"org.ciasaboark.tacere";"Time";6;93;1.16666666666667;"false";0;0;0;0;3
+"com.sweetiepiggy.everylocale";"System";0;3;NA;"false";0;0;0;0;0
+"com.bmpak.anagramsolver";"Reading";1;16;1;"false";0;0;0;0;0
+"tk.giesecke.phoenix";"System";0;5;NA;"false";0;0;0;0;0
+"com.brosmike.airpushdetector";"System";0;7;NA;"false";0;0;0;0;0
+"com.nkanaev.comics";"Reading";0;32;NA;"false";0;0;0;0;0
+"de.yazo_games.mensaguthaben";"Connectivity";0;23;NA;"false";0;0;0;0;0
+"com.foxykeep.lifecounter";"Games";0;10;NA;"false";0;0;0;0;0
+"com.sound.ampache";"Multimedia";0;60;NA;"false";0;0;0;0;0
+"orbitlivewallpaperfree.puzzleduck.com";"Theming";0;8;NA;"false";0;0;0;0;0
+"org.ncrmnt.nettts";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"org.passwordmaker.android";"Security";10;22;7.5;"false";0;0;0;0;0
+"de.onyxbits.remotekeyboard";"Connectivity";0;69;NA;"false";0;0;0;0;0
+"com.seafile.seadroid2";"Internet";1;226;2;"false";0;0;0;0;2
+"com.rareventure.gps2";"Navigation";14;1668;6.57142857142857;"false";0;0;0;0;9
+"net.kismetwireless.android.smarterwifimanager";"Connectivity";0;0;NA;"false";0;0;0;0;0
+"net.ddns.mlsoftlaberge.trycorder";"Games";0;49;NA;"false";0;0;0;0;0
+"ru.valle.btc";"Money";9;39;10.3333333333333;"false";1;0;0;0;6
+"org.secuso.privacyfriendlyweather";"Multimedia";2;71;1;"false";0;0;0;0;0
+"de.ub0r.android.otpdroid";"Security";0;6;NA;"false";0;0;0;0;0
+"net.alegen.android.netclip";"System";0;0;NA;"false";0;0;0;0;0
+"de.naturalnet.zahnarztgeraeusche";"Multimedia";2;1;1;"false";0;0;0;0;0
+"org.traccar.client";"Navigation";3;24;1.66666666666667;"false";0;0;0;1;2
+"re.jcg.playmusicexporter";"Multimedia";3;55;1;"false";0;0;0;0;0
+"com.traffar.game_of_life";"Games";0;3;NA;"false";0;0;0;0;0
+"com.twolinessoftware.android";"Navigation";0;19;NA;"false";0;0;0;0;0
+"org.openintents.shopping";"Writing";2;81;12.5;"false";3;0;0;0;0
+"link.standen.michael.slideshow";"Multimedia";0;18;NA;"false";0;0;0;0;0
+"com.nolanlawson.keepscore";"Games";2;79;9;"false";0;0;0;0;0
+"org.notabug.lifeuser.moviedb";"Multimedia";0;24;NA;"false";0;0;0;0;0
+"com.reddyetwo.hashmypass.app";"Security";0;49;NA;"false";0;0;0;0;0
+"ca.cmetcalfe.xposed.flatconnectivityicons";"System";0;1;NA;"false";0;0;0;0;0
+"com.pindroid";"Internet";12;81;2.08333333333333;"false";1;0;0;1;5
+"com.bytestemplar.tonedef";"Multimedia";0;33;NA;"false";0;0;0;0;0
+"com.googlecode.gogodroid";"Development";0;8;NA;"false";0;0;0;0;0
+"ohm.quickdice";"Games";3;203;6;"false";0;0;0;0;3
+"de.k3b.android.contentproviderhelper";"Development";0;24;NA;"false";0;0;0;0;0
+"mobi.omegacentauri.PerApp";"System";0;25;NA;"false";0;0;0;0;0
+"tranquvis.simplesmsremote";"System";47;95;2.40425531914894;"false";0;0;0;0;43
+"com.ringdroid";"Multimedia";0;12;NA;"false";0;0;0;0;0
+"vnd.blueararat.kaleidoscope6";"Multimedia";0;19;NA;"false";0;0;0;0;0
+"com.github.gianlucanitti.expreval";"Science & Education";2;8;1;"false";0;0;0;0;0
+"com.xatik.app.droiddraw.client";"Graphics";0;0;NA;"false";0;0;0;0;0
+"com.dwdesign.tweetings";"Internet";0;349;NA;"false";0;0;0;0;0
+"com.app.Zensuren";"Time";0;32;NA;"false";0;0;0;0;0
+"org.nathan.jf.build.prop.editor";"Development";0;4;NA;"false";0;0;0;0;0
+"net.dahanne.android.regalandroid";"Internet";14;97;5.14285714285714;"false";0;0;0;0;11
+"com.threedlite.livePolys";"Theming";0;11;NA;"false";0;0;0;0;0
+"com.jtechme.jumpgo";"Internet";3;87;6.33333333333333;"false";0;0;0;0;3
+"com.botbrew.basil";"Development";0;27;NA;"false";0;0;0;0;0
+"com.invano.ambientweather";"System";0;5;NA;"false";0;0;0;0;0
+"com.blntsoft.emailpopup";"Theming";1;16;1;"false";0;0;0;0;1
+"me.johnmh.boogdroid";"Development";0;40;NA;"false";0;0;0;0;0
+"com.nightshadelabs.anotherbrowser";"System";0;2;NA;"false";0;0;0;0;0
+"com.namelessdev.mpdroid";"Multimedia";0;147;NA;"false";0;0;0;0;0
+"be.brunoparmentier.apkshare";"System";1;5;1;"false";0;0;0;0;0
+"org.wikilovesmonuments";"Internet";0;6;NA;"false";0;0;0;0;0
+"com.mfreitas.twister";"Internet";0;2;NA;"false";0;0;0;0;0
+"com.google.android.apps.iosched";"Development";0;2;NA;"false";0;0;0;0;0
+"com.github.ooz.heymeditation";"Time";0;3;NA;"false";0;0;0;0;0
+"com.zachrattner.pockettalk";"Phone & SMS";0;9;NA;"false";0;0;0;0;0
+"com.episode6.android.appalarm.pro";"System";0;22;NA;"false";0;0;0;0;0
+"mixedbit.speechtrainer";"Multimedia";9;22;8.55555555555556;"false";0;0;0;0;8
+"com.abitsinc.andr";"System";0;3;NA;"false";0;0;0;0;0
+"ee.ioc.phon.android.speak";"Multimedia";0;60;NA;"false";0;0;0;0;0
+"bus.chio.wishmaster";"Internet";0;291;NA;"false";0;0;0;0;0
+"com.aidinhut.simpletextcrypt";"Security";5;11;2.6;"false";2;0;0;0;2
+"com.hectorone.multismssender";"Phone & SMS";0;0;NA;"false";0;0;0;0;0
+"tk.radioactivemineral.metronome";"Multimedia";4;11;1;"false";0;0;0;0;0
+"cc.rainwave.android";"Multimedia";0;35;NA;"false";0;0;0;0;0
+"fr.s13d.photobackup";"Multimedia";1;21;2;"false";0;0;0;0;0
+"com.totsp.bookworm";"Reading";0;45;NA;"false";0;0;0;0;0
+"de.Cherubin7th.blackscreenpresentationremote";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"us.bravender.android.dongsa";"Science & Education";0;3;NA;"false";0;0;0;0;0
+"com.omegavesko.sutransplus";"Navigation";1;9;1;"false";0;0;0;0;0
+"org.petero.droidfish";"Games";32;147;7.6875;"false";0;0;0;0;38
+"com.smorgasbork.hotdeath";"Games";0;17;NA;"false";0;0;0;0;0
+"net.georgewhiteside.android.abstractart";"Theming";0;28;NA;"false";0;0;0;0;0
+"org.mumod.android";"Internet";0;103;NA;"false";0;0;0;0;0
+"in.ac.iitb.cse.cartsbusboarding";"Science & Education";1;29;1;"false";0;0;0;0;0
+"com.packetsender.android";"Development";0;10;NA;"false";0;0;0;0;0
+"ru.sash0k.bluetooth_terminal";"Development";0;10;NA;"false";0;0;0;0;0
+"com.xenris.liquidwarsos";"Games";0;21;NA;"false";0;0;0;0;0
+"org.cyanogenmod.wundergroundcmweatherprovider";"System";1;23;1;"false";0;0;0;0;0
+"ga.chschtsch.milonhapashut";"Reading";1;5;1;"false";0;0;0;0;0
+"com.mobilepearls.sokoban";"Games";0;6;NA;"false";0;0;0;0;0
+"de.ub0r.android.clipboardbeam";"System";0;3;NA;"false";0;0;0;0;0
+"net.sf.ethersynth";"Multimedia";0;21;NA;"false";0;0;0;0;0
+"org.projectvoodoo.audiomeasurementsplayer";"Multimedia";0;51;NA;"false";0;0;0;0;0
+"jp.co.omronsoft.openwnn";"Writing";0;55;NA;"false";0;0;0;0;0
+"steele.gerry.dotty";"Development";1;3;7;"false";0;0;0;0;0
+"com.quaap.audiometer";"Multimedia";2;6;1;"false";0;0;0;0;0
+"net.minetest.minetest";"Games";2;3;6;"false";0;0;0;0;2
+"com.github.premnirmal.tickerwidget";"Time";0;0;NA;"false";0;0;0;0;0
+"net.sourceforge.wifiremoteplay";"Multimedia";0;7;NA;"false";0;0;0;0;0
+"com.spydiko.rotationmanager_foss";"System";0;40;NA;"false";0;0;0;0;0
+"ca.rmen.android.frenchcalendar";"Theming";0;1;NA;"false";0;0;0;0;0
+"it.rignanese.leo.slimtwitter";"Internet";2;3;1;"false";0;0;0;0;0
+"protect.babymonitor";"Connectivity";0;5;NA;"false";0;0;0;0;0
+"me.writeily";"Writing";1;33;3;"false";0;0;0;0;0
+"com.ten15.diyfish";"Theming";0;6;NA;"false";0;0;0;0;0
+"com.brockoli.android.hsdroid";"Games";0;25;NA;"false";0;0;0;0;0
+"org.secuso.privacyfriendlysudoku";"Games";2;50;8.5;"false";0;0;0;0;1
+"com.brewcrewfoo.performance";"System";0;66;NA;"false";0;0;0;0;0
+"jwtc.android.chess";"Games";0;73;NA;"false";0;0;0;0;0
+"com.sapos_aplastados.game.clash_of_balls";"Games";0;87;NA;"false";0;0;0;0;0
+"org.macno.puma";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.boardgamegeek";"Games";0;241;NA;"false";0;0;0;0;0
+"com.easwareapps.baria";"System";2;16;1;"false";0;0;0;0;0
+"com.tierep.notificationanalyser";"System";1;79;1;"false";0;0;0;0;1
+"de.onyxbits.drudgery";"Games";0;14;NA;"false";0;0;0;0;0
+"com.jtmcn.archwiki.viewer";"Reading";2;18;4;"false";0;0;0;0;2
+"com.anddevw.getchromium";"Internet";2;8;1;"false";0;0;0;0;0
+"com.dozingcatsoftware.cameratimer";"Multimedia";0;14;NA;"false";0;0;0;0;0
+"com.matteopacini.katana";"System";0;7;NA;"false";0;0;0;0;0
+"uk.org.ngo.squeezer";"Multimedia";8;185;4.375;"false";0;0;0;0;7
+"de.hampager.dapnetmobile";"Connectivity";0;32;NA;"false";0;0;0;0;0
+"com.fgrim.msnake";"Games";0;3;NA;"false";0;0;0;0;0
+"com.niparasc.papanikolis";"Games";0;34;NA;"false";0;0;0;0;0
+"com.zegoggles.smssync";"Phone & SMS";36;100;8.05555555555556;"false";1;0;0;3;31
+"org.broeuschmeul.android.gps.bluetooth.provider";"Navigation";0;6;NA;"false";0;0;0;0;0
+"de.baumann.browser";"Internet";0;66;NA;"false";0;0;0;0;0
+"com.dkanada.openapk";"System";0;25;NA;"false";0;0;0;0;0
+"net.pagekite.app";"Internet";0;18;NA;"false";0;0;0;0;0
+"net.tjado.passwdsafe";"Security";10;177;8.6;"false";1;0;1;0;4
+"com.termux.window";"Development";0;6;NA;"false";0;0;0;0;0
+"net.vreeken.quickmsg";"Internet";11;2127;6.45454545454545;"false";0;0;0;0;6
+"com.ecuamobi.deckwallet";"Money";0;20;NA;"false";0;0;0;0;0
+"org.proninyaroslav.libretorrent";"Internet";1;178;1;"false";0;0;0;0;1
+"com.fastebro.androidrgbtool";"Multimedia";3;51;3.66666666666667;"false";0;0;0;0;2
+"com.yasfa.views";"Multimedia";0;34;NA;"false";0;0;0;0;0
+"com.hermit.btreprap";"Connectivity";0;12;NA;"false";0;0;0;0;0
+"de.vanitasvitae.enigmandroid";"Science & Education";0;44;NA;"false";0;0;0;0;0
+"be.norio.randomapp";"System";0;5;NA;"false";0;0;0;0;0
+"org.t2.synconwifi";"System";2;10;1;"false";0;0;0;0;0
+"org.cprados.wificellmanager";"Connectivity";0;26;NA;"false";0;0;0;0;0
+"com.anysoftkeyboard.languagepack.hungarian";"Writing";0;1;NA;"false";0;0;0;0;0
+"com.nowsecure.android.vts";"Security";9;172;4.77777777777778;"false";0;0;0;0;0
+"com.samwhited.opensharelocationplugin";"Internet";0;0;NA;"false";0;0;0;0;0
+"de.shandschuh.slightbackup";"System";0;27;NA;"false";0;0;0;0;0
+"org.debian.eugen.headingcalculator";"Navigation";1;6;3;"false";0;0;0;0;1
+"cx.mccormick.pddroidparty";"System";0;30;NA;"false";0;0;0;0;0
+"com.mareksebera.simpledilbert";"Reading";0;23;NA;"false";0;0;0;0;0
+"fr.s3i.pointeuse";"Time";2;14;1;"false";0;0;0;0;0
+"de.marmaro.krt.ffupdater";"Internet";8;13;5.125;"false";0;0;0;0;7
+"nf.frex.android";"Science & Education";14;201;3.71428571428571;"false";0;0;0;0;12
+"org.xposeddownloader";"Internet";2;14;1;"false";0;0;0;0;0
+"com.alexxz.hawkingquotes";"Reading";0;2;NA;"false";0;0;0;0;0
+"com.jmstudios.pointandhit.android";"Games";0;17;NA;"false";0;0;0;0;0
+"com.geecko.QuickLyric";"Multimedia";3;98;2;"false";0;0;0;0;1
+"at.bitfire.cadroid";"Internet";0;0;NA;"false";0;0;0;0;0
+"com.uberspot.a2048";"Games";0;1;NA;"false";0;0;0;0;0
+"com.flipcamera";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"de.badaix.snapcast";"Multimedia";0;1;NA;"false";0;0;0;0;0
+"ru.equestriadev.mgke";"Time";0;34;NA;"false";0;0;0;0;0
+"org.pixmob.freemobile.netstat";"Phone & SMS";0;59;NA;"false";0;0;0;0;0
+"info.lamatricexiste.network";"System";0;25;NA;"false";0;0;0;0;0
+"com.example.sshtry";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"org.zamedev.gloomydungeons2.opensource";"Games";1;364;4;"false";0;0;0;0;1
+"jonas.tool.saveForOffline";"Internet";0;15;NA;"false";0;0;0;0;0
+"com.github.redpanal.android";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"com.materialos.cm.theme";"Theming";0;0;NA;"false";0;0;0;0;0
+"de.danoeh.antennapod";"Multimedia";41;359;11.9268292682927;"false";2;0;1;0;22
+"org.pyneo.maps";"Navigation";0;52;NA;"false";0;0;0;0;0
+"org.sufficientlysecure.viewer.fontpack";"Reading";0;55;NA;"false";0;0;0;0;0
+"indrora.atomic";"Internet";0;125;NA;"false";0;0;0;0;0
+"org.openbmap";"Connectivity";1;104;1;"false";0;0;0;0;1
+"se.danielj.geometridestroyer";"Games";0;16;NA;"false";0;0;0;0;0
+"com.workingagenda.devinettes";"Games";2;7;1;"false";0;0;0;0;0
+"ru.exlmoto.snood21";"Games";2;7;1;"false";0;0;0;0;0
+"org.secuso.privacyfriendlynotes";"Writing";2;23;1;"false";0;0;0;0;0
+"org.openintents.about";"System";0;12;NA;"false";0;0;0;0;0
+"me.disconnect.mobile2";"Internet";0;63;NA;"false";0;0;0;0;0
+"com.icechen1.notable.pro";"Time";1;14;1;"false";0;0;0;0;0
+"com.alaskalinuxuser.justnotes";"Writing";2;5;1;"false";0;0;0;0;0
+"me.zeeroooo.materialfb";"Internet";2;25;1;"false";0;0;0;0;0
+"org.openorienteering.mapper";"Navigation";0;3;NA;"false";0;0;0;0;0
+"it.gmariotti.android.apps.dashclock.extensions.battery";"Theming";0;5;NA;"false";0;0;0;0;0
+"btools.routingapp";"Navigation";17;153;2.58823529411765;"false";0;0;0;0;9
+"com.annie.dictionary";"Science & Education";0;60;NA;"false";0;0;0;0;0
+"de.markusfisch.android.wavelines";"Theming";0;17;NA;"false";0;0;0;0;0
+"com.github.marmalade.aRevelation";"Security";0;0;NA;"false";0;0;0;0;0
+"com.unitedcoders.android.gpodroid";"Multimedia";0;26;NA;"false";0;0;0;0;0
+"dk.mide.fas.cmnightlies";"System";0;7;NA;"false";0;0;0;0;0
+"com.ridgelineapps.resdicegame";"Games";0;20;NA;"false";0;0;0;0;0
+"info.guardianproject.gilga";"Connectivity";0;19;NA;"false";0;0;0;0;0
+"de.k4ever.k4android";"Internet";0;28;NA;"false";0;0;0;0;0
+"de.tum.in.tumcampus";"Internet";12;38;8.08333333333333;"false";0;0;0;0;2
+"pw.thedrhax.mosmetro";"Connectivity";0;42;NA;"false";0;0;0;0;0
+"it.andreascarpino.hostisdown";"Internet";0;7;NA;"false";0;0;0;0;0
+"ch.ihdg.calendarcolor";"Time";1;2;1;"false";0;0;0;0;0
+"fr.xplod.focal";"Multimedia";0;82;NA;"false";0;0;0;0;0
+"dasher.android";"Writing";0;83;NA;"false";0;0;0;0;0
+"org.aja.flightmode";"Connectivity";0;2;NA;"false";0;0;0;0;0
+"org.linphone";"Phone & SMS";0;182;NA;"false";0;0;0;0;0
+"org.ligi.scr";"Time";0;12;NA;"false";0;0;0;0;0
+"com.nostra13.universalimageloader";"Multimedia";2;84;7;"false";0;0;0;0;2
+"de.luhmer.owncloudnewsreader";"Internet";11;152;5.36363636363636;"false";0;0;0;0;3
+"org.androidpn.client";"System";0;28;NA;"false";0;0;0;0;0
+"com.ratebeer.android";"Internet";0;123;NA;"false";0;0;0;0;0
+"com.asksven.betterwifionoff";"Connectivity";0;45;NA;"false";0;0;0;0;0
+"org.doubango.imsdroid";"Internet";0;223;NA;"false";0;0;0;0;0
+"de.mangelow.syncwifi";"System";0;9;NA;"false";0;0;0;0;0
+"ch.blinkenlights.android.apnswitch";"Connectivity";0;5;NA;"false";0;0;0;0;0
+"com.ogsdroid";"Games";2;6;1;"false";0;0;0;0;0
+"com.tmendes.birthdaydroid";"Time";0;18;NA;"false";0;0;0;0;0
+"com.mapzen.open";"Navigation";54;69;15.7222222222222;"false";4;0;8;4;29
+"com.elsdoerfer.android.autostarts";"System";0;34;NA;"false";0;0;0;0;0
+"de.cryptobitch.muelli.vouchercalc";"Money";2;2;1;"false";0;0;0;0;0
+"pl.narfsoftware.thermometer";"System";0;51;NA;"false";0;0;0;0;0
+"sony.hidden.servicemenu";"System";1;2;1;"false";0;0;0;0;0
+"org.katsarov.dofcalc";"Science & Education";0;2;NA;"false";0;0;0;0;0
+"de.ub0r.android.portaltimer";"Games";0;6;NA;"false";0;0;0;0;0
+"org.tasks";"Writing";44;467;11.0454545454545;"false";0;0;0;0;20
+"com.martinborjesson.o2xtouchlednotifications";"System";1;58;2;"false";0;0;0;0;0
+"ru.subprogram.paranoidsmsblocker";"Phone & SMS";0;41;NA;"false";0;0;0;0;0
+"com.soyblue.bluesound";"Phone & SMS";0;6;NA;"false";0;0;0;0;0
+"org.primftpd";"Connectivity";2;401;9.5;"false";0;0;0;0;0
+"com.nilhcem.frcndict";"Reading";0;9;NA;"false";0;0;0;0;0
+"dmusiolik.pijaret";"System";2;6;1;"false";0;0;0;0;0
+"com.manuelmaly.hn";"Reading";0;55;NA;"false";0;0;0;0;0
+"com.github.funkyg.funkytunes";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"com.khuttun.notificationnotes";"Writing";0;12;NA;"false";0;0;0;0;0
+"org.pyload.android.client";"System";0;140;NA;"false";0;0;0;0;0
+"net.damsy.soupeaucaillou.recursiveRunner";"Games";0;0;NA;"false";0;0;0;0;0
+"ca.farrelltonsolar.classic";"System";3;142;1;"false";0;0;0;0;0
+"com.eibriel.reddot";"Time";1;4;1;"false";0;0;0;0;0
+"com.vlille.checker";"Navigation";0;74;NA;"false";0;0;0;0;0
+"edu.cmu.pocketsphinx.demo";"Multimedia";0;2;NA;"false";0;0;0;0;0
+"anupam.acrylic";"Graphics";0;9;NA;"false";0;0;0;0;0
+"org.olpc_france.sugarizer";"Science & Education";0;78;NA;"false";0;0;0;0;0
+"com.claha.showtimeremote";"Multimedia";0;9;NA;"false";0;0;0;0;0
+"com.clickgostudio.air1072";"Multimedia";0;5;NA;"false";0;0;0;0;0
+"it.sasabz.android.sasabus";"Navigation";1;229;1;"false";0;0;0;0;0
+"com.passcard";"Security";2;3;1;"false";0;0;0;0;0
+"org.asnelt.derandom";"Security";0;13;NA;"false";0;0;0;0;0
+"org.geometerplus.fbreader.plugin.tts";"Reading";0;10;NA;"false";0;0;0;0;0
+"com.reicast.emulator";"Games";0;15;NA;"false";0;0;0;0;0
+"com.ruesga.android.wallpapers.photophase";"Theming";0;139;NA;"false";0;0;0;0;0
+"fr.unix_experience.owncloud_sms";"Phone & SMS";0;39;NA;"false";0;0;0;0;0
+"name.livitski.games.puzzle.android";"Games";0;14;NA;"false";0;0;0;0;0
+"axp.tool.apkextractor";"System";0;4;NA;"false";0;0;0;0;0
+"org.kontalk";"Internet";22;400;4.27272727272727;"false";1;0;0;3;10
+"com.phikal.regex";"Games";0;18;NA;"false";0;0;0;0;0
+"krasilnikov.alexey.cryptopass";"Security";2;39;6.5;"false";0;0;0;0;2
+"com.github.axet.tonegenerator";"System";2;5;1;"false";0;0;0;0;0
+"org.toulibre.capitoledulibre";"Time";0;87;NA;"false";0;0;0;0;0
+"com.josegd.monthcalwidget";"Time";0;12;NA;"false";0;0;0;0;0
+"ru0xdc.rtkgps";"Navigation";0;66;NA;"false";0;0;0;0;0
+"com.gracecode.android.presentation";"Multimedia";0;19;NA;"false";0;0;0;0;0
+"com.iamtrk.androidexplorer";"System";0;10;NA;"false";0;0;0;0;0
+"fr.keuse.rightsalert";"System";0;10;NA;"false";0;0;0;0;0
+"net.sourceforge.andsys";"System";0;11;NA;"false";0;0;0;0;0
+"com.danielme.muspyforandroid";"Multimedia";0;84;NA;"false";0;0;0;0;0
+"com.example.muzei.muzeiapod";"Multimedia";0;2;NA;"false";0;0;0;0;0
+"de.onyxbits.geobookmark";"Navigation";0;7;NA;"false";0;0;0;0;0
+"se.tube42.kidsmem.android";"Games";0;25;NA;"false";0;0;0;0;0
+"name.juodumas.ext_kbd_lithuanian";"Writing";0;0;NA;"false";0;0;0;0;0
+"com.mitzuli";"Reading";1;262;1;"false";0;0;0;0;1
+"com.glTron";"Games";0;26;NA;"false";0;0;0;0;0
+"pl.strimoid.lara";"Internet";0;25;NA;"false";0;0;0;0;0
+"com.dconstructing.cooper";"Development";1;16;4;"false";0;0;0;0;0
+"org.androidsoft.games.memory.tux";"Games";0;10;NA;"false";0;0;0;0;0
+"com.futurice.android.reservator";"Time";0;39;NA;"false";0;0;0;0;0
+"com.harleensahni.android.mbr";"Multimedia";0;10;NA;"false";0;0;0;0;0
+"org.isoron.uhabits";"Sports & Health";77;199;5.12987012987013;"false";0;0;0;4;49
+"com.javiersantos.mlmanager";"System";1;19;1;"false";0;0;0;0;0
+"com.fivasim.antikythera";"Science & Education";0;17;NA;"false";0;0;0;0;0
+"com.voidcode.diasporawebclient";"Internet";0;10;NA;"false";0;0;0;0;0
+"com.secuso.privacyFriendlyCodeScanner";"Multimedia";2;56;1;"false";0;0;0;0;0
+"budo.budoist";"Time";1;62;2;"false";0;0;0;0;1
+"com.lucasdnd.decimaltimeclockwidget";"Time";0;8;NA;"false";0;0;0;0;0
+"me.phh.superuser";"Security";0;25;NA;"false";0;0;0;0;0
+"andraus.bluetoothhidemu";"Connectivity";0;36;NA;"false";0;0;0;0;0
+"net.pherth.omnomagon";"Reading";0;46;NA;"false";0;0;0;0;0
+"com.irahul.worldclock";"Time";0;9;NA;"false";0;0;0;0;0
+"com.bigbluecup.android.launcher";"Games";0;10;NA;"false";0;0;0;0;0
+"net.dahanne.banq.notifications";"Time";4;32;4.75;"false";0;0;0;0;3
+"vocabletrainer.heinecke.aron.vocabletrainer";"Science & Education";4;86;6.5;"false";0;0;0;0;1
+"com.mkf.droidsat";"Science & Education";0;54;NA;"false";0;0;0;0;0
+"de.k3b.android.calendar.ics.adapter";"System";6;33;7.33333333333333;"false";0;0;0;0;0
+"org.sagemath.droid";"Science & Education";0;101;NA;"false";0;0;0;0;0
+"de.agrothe.go";"Games";0;13;NA;"false";0;0;0;0;0
+"com.easwareapps.transparentwidget";"System";2;9;1;"false";0;0;0;0;0
+"monakhv.android.samlib";"Reading";8;172;3.875;"false";0;0;0;0;3
+"org.bienvenidoainternet.app";"Internet";2;18;1;"false";0;0;0;0;0
+"com.android.camera2";"Multimedia";10;585;5.9;"false";0;0;0;0;1
+"org.runnerup";"Sports & Health";2;184;8.5;"false";0;0;0;0;2
+"io.github.gsantner.memetastic";"Graphics";0;49;NA;"false";0;0;0;0;0
+"in.umairkhan.remotedroid";"Connectivity";1;205;22;"false";0;0;0;0;1
+"net.bible.android.activity";"Reading";47;261;4.74468085106383;"false";0;0;0;0;37
+"com.a5corp.weather";"Internet";0;45;NA;"false";0;0;0;0;0
+"com.itds.sms.ping";"Phone & SMS";1;4;1;"false";0;0;0;0;0
+"com.physphil.android.unitconverterultimate";"Science & Education";1;41;14;"false";0;0;0;0;1
+"com.danielkim.soundrecorder";"Multimedia";1;14;1;"false";0;0;0;0;0
+"org.yuttadhammo.tipitaka";"Reading";0;34;NA;"false";0;0;0;0;0
+"com.johan.vertretungsplan";"Time";0;34;NA;"false";0;0;0;0;0
+"de.hoffmannsgimmicks";"Time";0;6;NA;"false";0;0;0;0;0
+"com.leocardz.multitouch.test";"System";1;3;11;"false";0;0;0;0;0
+"com.amabyte.vtucslabmanual";"Science & Education";0;8;NA;"false";0;0;0;0;0
+"net.thauvin.erik.android.noussd";"Security";0;2;NA;"false";0;0;0;0;0
+"com.wbrenna.gtfsoffline";"Navigation";0;15;NA;"false";0;0;0;0;0
+"julianwi.javainstaller";"Development";0;17;NA;"false";0;0;0;0;0
+"com.dosse.chromiumautoupdater";"Internet";0;11;NA;"false";0;0;0;0;0
+"org.developfreedom.logmein";"Internet";2;10;3.5;"false";1;0;0;0;0
+"com.juliansparber.captiveportallogin";"Internet";0;3;NA;"false";0;0;0;0;0
+"ivl.android.moneybalance";"Money";0;24;NA;"false";0;0;0;0;0
+"io.github.kobuge.games.minilens";"Games";0;1;NA;"false";0;0;0;0;0
+"com.dozingcatsoftware.bouncy";"Games";0;43;NA;"false";0;0;0;0;0
+"com.googlecode.gtalksms";"Phone & SMS";0;138;NA;"false";0;0;0;0;0
+"net.inbox.pager";"Internet";1;37;8;"false";0;0;0;0;0
+"de.kodejak.hashr";"Development";0;9;NA;"false";0;0;0;0;0
+"com.refactech.driibo";"Multimedia";0;54;NA;"false";0;0;0;0;0
+"com.yubico.yubioath";"Connectivity";0;20;NA;"false";0;0;0;0;0
+"org.durka.hallmonitor";"Theming";0;33;NA;"false";0;0;0;0;0
+"net.nightwhistler.pageturner";"Reading";6;133;5.16666666666667;"false";1;0;0;0;3
+"com.andrew.apollo";"Multimedia";0;145;NA;"false";0;0;0;0;0
+"net.teknoraver.andhrystone";"System";0;2;NA;"false";0;0;0;0;0
+"edu.harvard.android.mmskeeper";"System";0;4;NA;"false";0;0;0;0;0
+"com.dnielfe.manager";"System";0;55;NA;"false";0;0;0;0;0
+"com.amphoras.tpthelper";"System";0;39;NA;"false";0;0;0;0;0
+"swati4star.createpdf";"Multimedia";4;122;3.25;"false";0;0;0;0;3
+"com.malek.alldebrid";"Internet";1;29;1;"false";0;0;0;0;0
+"com.ariwilson.seismowallpaper";"Theming";0;29;NA;"false";0;0;0;0;0
+"com.amaze.filemanager";"System";66;263;4.95454545454545;"false";2;0;0;1;32
+"com.movim.movim";"Internet";0;3;NA;"false";0;0;0;0;0
+"org.subsurface";"Sports & Health";0;0;NA;"false";0;0;0;0;0
+"rs.pedjaapps.alogcatroot.app";"Development";1;13;1;"false";0;0;0;0;0
+"com.keylesspalace.tusky";"Internet";0;72;NA;"false";0;0;0;0;0
+"com.artifex.mupdf.example";"Reading";0;37;NA;"false";0;0;0;0;0
+"com.github.axet.torrentclient";"Internet";2;50;1.5;"false";0;0;0;0;0
+"de.mpg.mpdl.labcam";"Science & Education";0;20;NA;"false";0;0;0;0;0
+"net.solutinno.websearch";"System";0;19;NA;"false";0;0;0;0;0
+"z4pp3r.flashlightwidget";"Theming";0;3;NA;"false";0;0;0;0;0
+"ro.mihai.tpt";"Navigation";11;73;6.54545454545455;"false";0;0;0;0;4
+"org.zeroxlab.zeroxbenchmark";"System";0;0;NA;"false";0;0;0;0;0
+"com.hexairbot.hexmini";"Games";0;94;NA;"false";0;0;0;0;0
+"ch.rrelmy.android.batterymanager";"System";0;3;NA;"false";0;0;0;0;0
+"eu.veldsoft.fish.rings";"Games";0;10;NA;"false";0;0;0;0;0
+"com.kaeruct.glxy";"Games";0;17;NA;"false";0;0;0;0;0
+"com.vonglasow.michael.satstat";"Navigation";1;111;2;"false";0;0;0;0;0
+"mohammad.adib.roundr";"System";0;16;NA;"false";0;0;0;0;0
+"cz.hejl.chesswalk";"Games";0;26;NA;"false";0;0;0;0;0
+"org.openobservatory.ooniprobe";"Internet";12;86;8.83333333333333;"false";0;0;0;1;5
+"org.dyndns.sven_ola.debian_kit";"Development";0;3;NA;"false";0;0;0;0;0
+"org.dyndns.fules.ck";"Writing";0;7;NA;"false";0;0;0;0;0
+"priv.twoerner.brightnesswidget";"System";0;13;NA;"false";0;0;0;0;0
+"it.angrydroids.epub3reader";"Reading";0;11;NA;"false";0;0;0;0;0
+"com.ghstudios.android.mhgendatabase";"Games";2;141;3;"false";0;0;0;0;1
+"nodomain.freeyourgadget.gadgetbridge";"Connectivity";23;486;8;"false";1;0;0;0;16
+"com.nolanlawson.logcat";"Development";1;53;4;"false";0;0;0;0;0
+"de.syss.MifareClassicTool";"Connectivity";0;25;NA;"false";0;0;0;0;0
+"com.almalence.opencam";"Multimedia";0;219;NA;"false";0;0;0;0;0
+"com.sidzi.circleofmusic";"Multimedia";0;35;NA;"false";0;0;0;0;0
+"com.jackpf.apkdownloader";"Development";1;115;1;"false";0;0;0;0;1
+"br.com.frs.foodrestrictions";"Sports & Health";0;11;NA;"false";0;0;0;0;0
+"csd.qtproject.minesweeper";"Games";0;1;NA;"false";0;0;0;0;0
+"com.opentaxi.android";"Navigation";0;47;NA;"false";0;0;0;0;0
+"org.glucosio.android";"Sports & Health";29;99;6.55172413793103;"false";6;0;1;0;18
+"com.leafdigital.kanji.android";"Science & Education";7;19;2.85714285714286;"false";0;0;0;0;7
+"com.yubico.yubiclip";"Connectivity";0;8;NA;"false";0;0;0;0;0
+"com.github.alijc.cricketsalarm";"Time";0;10;NA;"false";0;0;0;0;0
+"com.googlecode.android_scripting";"Development";30;569;3.73333333333333;"false";0;1;0;0;7
+"com.sakthipriyan.cricscore";"Sports & Health";0;10;NA;"false";0;0;0;0;0
+"com.enrico.sample";"System";0;15;NA;"false";0;0;0;0;0
+"com.emartynov.android.app.urlsetter";"Internet";7;22;6.71428571428571;"false";2;0;0;0;4
+"com.bobbyrne01.howfardoyouswim";"Navigation";0;5;NA;"false";0;0;0;0;0
+"com.mattallen.dpixel";"System";0;7;NA;"false";0;0;0;0;0
+"org.torproject.android";"Security";2;82;1;"false";0;0;0;0;0
+"name.boyle.chris.sgtpuzzles";"Games";2;17;5;"false";0;0;0;0;2
+"org.beide.droidgain";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"org.wikipedia";"Internet";88;580;6.71590909090909;"false";3;0;0;1;45
+"com.sensirion.smartgadget";"Connectivity";5;75;3.8;"false";1;0;0;0;1
+"org.vi_server.red_screen";"System";1;2;1;"false";1;0;0;0;0
+"uk.co.keepawayfromfire.screens";"System";0;14;NA;"false";0;0;0;0;0
+"net.phunehehe.foocam";"Multimedia";0;3;NA;"false";0;0;0;0;0
+"com.gunshippenguin.openflood";"Games";3;10;2.33333333333333;"false";1;0;0;0;0
+"net.kourlas.voipms_sms";"Phone & SMS";0;2;NA;"false";0;0;0;0;0
+"com.example.android.monthcalendarwidget";"Theming";0;3;NA;"false";0;0;0;0;0
+"ee.smkv.calc.loan";"Money";1;115;4;"false";0;0;0;0;0
+"com.actisec.clipcaster";"Security";9;24;5.66666666666667;"false";0;0;0;0;3
+"com.owncloud.android";"Internet";9;176;7.66666666666667;"false";1;0;0;0;1
+"com.fisheradelakin.interactivestory";"Games";1;5;1;"false";0;0;0;0;0
+"com.ivanvolosyuk.sharetobrowser";"Internet";0;9;NA;"false";0;0;0;0;0
+"com.sunyata.kindmind";"Sports & Health";0;37;NA;"false";0;0;0;0;0
+"com.tkjelectronics.balanduino";"Development";0;18;NA;"false";0;0;0;0;0
+"se.embargo.retroboy";"Multimedia";0;56;NA;"false";0;0;0;0;0
+"com.enrico.filemanager";"System";0;2;NA;"false";0;0;0;0;0
+"email.schaal.ocreader";"Reading";8;75;3.375;"false";2;0;0;0;2
+"com.github.mofosyne.tagdrop";"Development";1;8;1;"false";0;0;0;0;0
+"byrne.utilities.pasteedroid";"Internet";0;5;NA;"false";0;0;0;0;0
+"in.andres.kandroid";"Internet";3;84;1.66666666666667;"false";1;0;0;0;0
+"com.darshancomputing.BatteryIndicatorPro";"System";1;33;4;"false";0;0;0;0;0
+"io.github.froodyapp";"Sports & Health";0;0;NA;"false";0;0;0;0;0
+"me.malladi.dashcricket";"Sports & Health";0;8;NA;"false";0;0;0;0;0
+"com.easwareapps.f2lflap2lock_adfree";"Connectivity";0;9;NA;"false";0;0;0;0;0
+"com.moez.QKSMS";"Phone & SMS";0;148;NA;"false";0;0;0;0;0
+"com.phpsysinfo";"System";0;24;NA;"false";0;0;0;0;0
+"mavonst.app.easylight";"System";0;7;NA;"false";0;0;0;0;0
+"com.tomer.screenshotsharer";"System";0;2;NA;"false";0;0;0;0;0
+"moe.martini.midictrl";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"org.sensors2.osc";"Multimedia";1;18;1;"false";0;0;0;0;0
+"org.androidsoft.games.memory.kids";"Games";0;12;NA;"false";0;0;0;0;0
+"fm.libre.droid";"Multimedia";0;8;NA;"false";0;0;0;0;0
+"de.cwde.freeshisen";"Games";0;11;NA;"false";0;0;0;0;0
+"com.nolanlawson.jnameconverter";"Reading";4;44;2.75;"false";0;0;0;0;1
+"org.dmfs.tasks";"Writing";39;355;4.48717948717949;"false";0;0;0;1;28
+"com.dalthed.tucan";"Science & Education";6;71;1.33333333333333;"false";0;0;0;0;1
+"net.tevp.postcode";"Navigation";0;7;NA;"false";0;0;0;0;0
+"com.lightbox.android.camera";"Multimedia";0;78;NA;"false";0;0;0;0;0
+"org.tmurakam.presentationtimer";"Time";0;8;NA;"false";0;0;0;0;0
+"com.emmaguy.cleanstatusbar";"Development";0;13;NA;"false";0;0;0;0;0
+"com.ultrafunk.network_info";"Theming";0;19;NA;"false";0;0;0;0;0
+"com.termux.styling";"Development";0;0;NA;"false";0;0;0;0;0
+"com.drodin.tuxrider";"Games";0;7;NA;"false";0;0;0;0;0
+"org.jak_linux.dns66";"Internet";11;28;8.45454545454546;"false";0;0;0;0;9
+"com.banasiak.coinflip";"Games";3;13;6.66666666666667;"false";0;0;0;0;0
+"org.olgsoft.apipepanic";"Games";0;3;NA;"false";0;0;0;0;0
+"net.tapi.handynotes";"Writing";0;12;NA;"false";0;0;0;0;0
+"app.varlorg.unote";"Writing";3;10;4.33333333333333;"false";0;0;0;0;1
+"com.nucc.hackwinds";"Time";0;0;NA;"false";0;0;0;0;0
+"net.everythingandroid.smspopup";"Phone & SMS";1;40;6;"false";0;0;0;0;0
+"org.tw.onze.cmtheme";"Theming";0;1;NA;"false";0;0;0;0;0
+"app.librenews.io.librenews";"Reading";2;10;1;"false";0;0;0;0;0
+"com.xperia64.timidityae";"Multimedia";0;37;NA;"false";0;0;0;0;0
+"org.openbmap.unifiedNlp";"Navigation";0;25;NA;"false";0;0;0;0;0
+"com.androidemu.snes";"Games";0;25;NA;"false";0;0;0;0;0
+"com.tomaszmarzeion.notepad";"Writing";1;8;4;"false";0;0;0;0;0
+"is.pinterjann.jaws";"Connectivity";0;9;NA;"false";0;0;0;0;0
+"de.antonfluegge.android.yubnubwidgetadfree";"Internet";0;6;NA;"false";0;0;0;0;0
+"com.lligainterm";"Sports & Health";0;13;NA;"false";0;0;0;0;0
+"de.live.gdev.cherrymusic";"Multimedia";0;12;NA;"false";0;0;0;0;0
+"youten.redo.ble.ibeacondetector";"Connectivity";0;10;NA;"false";0;0;0;0;0
+"fr.gaulupeau.apps.InThePoche";"Internet";3;94;12.3333333333333;"false";0;0;0;0;0
+"it.langolonerd.app";"Internet";2;3;1;"false";0;0;0;0;0
+"com.mehmetakiftutuncu.eshotroid";"Navigation";2;35;2;"false";0;0;0;0;0
+"net.bitplane.android.microphone";"Multimedia";0;2;NA;"false";0;0;0;0;0
+"com.MarcosDiez.shareviahttp";"Internet";0;10;NA;"false";0;0;0;0;0
+"nl.yoerinijs.notebuddy";"Writing";6;29;2.5;"false";0;0;0;0;6
+"net.etuldan.sparss.floss";"Reading";2;56;6.5;"false";0;0;0;0;1
+"ch.blinkenlights.android.vanillaplug";"Multimedia";0;4;NA;"false";0;0;0;0;0
+"org.schabi.kiba";"Internet";1;5;1;"false";0;0;0;0;0
+"in.p1x.tanks_of_freedom";"Games";0;0;NA;"false";0;0;0;0;0
+"com.morlunk.mumbleclient";"Internet";1;67;4;"false";0;0;0;0;0
+"de.jdsoft.law";"Reading";0;34;NA;"false";0;0;0;0;0
+"com.alexcruz.papuhwalls";"Theming";0;0;NA;"false";0;0;0;0;0
+"com.launcher.silverfish";"System";2;28;1;"false";0;0;0;0;0
+"org.froscon.schedule";"Time";0;2;NA;"false";0;0;0;0;0
